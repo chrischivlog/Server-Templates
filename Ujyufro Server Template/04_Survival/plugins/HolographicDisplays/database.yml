@@ -1,0 +1,36 @@
+vote:
+  location: world, 120.578, 75.396, 323.489
+  lines:
+  - '&8◆&l&eVote&8◆'
+  - '&7Mit &e/votes&7 kannst du'
+  - '&7für den Server in einer Serverlist'
+  - '&7stimmen, und erhältst &lTolle &l&eITEMS '
+top:
+  location: world, 142.157, 71.677, 338.482
+  lines:
+  - '&8◆&l&eStats&8◆'
+  - '&7Mit &e/stats&7 kannst du'
+  - '&7deine PvP-Statistiken sehen'
+info:
+  location: world, 159.210, 66.803, 317.584
+  lines:
+  - '&8◆&l&eInfo&8◆'
+  - '&e/spawn &7Bringt dich zum Spawn'
+  - '&e/help &7Zeigt dir alle Befehle'
+  - '&e/home &7Um nach Hause zu gelangen'
+  - '&e/yt &7Um die Vorraussetzungen von Youtubern zu sehen '
+shop:
+  location: world, 106.883, 74.491, 330.571
+  lines:
+  - '&8◆&l&eShop&8◆'
+  - '&7Handele mit Villagern im Shop,'
+  - '&7um deine Base oder deine Rüstung zu Upgraden'
+  - ''
+  - '&e/shop &7Um in den Mobielen Shop zu gehen'
+info2:
+  location: world, 130.975, 73.361, 322.966
+  lines:
+  - '&8◆&l&eWichtig&8◆'
+  - '&7Dieser Server Verkauft kein'
+  - '&7Premium oder irgend einen Vorteils'
+  - '&7Rang, bitte beachten!'

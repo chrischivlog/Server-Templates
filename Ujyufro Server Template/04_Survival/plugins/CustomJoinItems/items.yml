@@ -1,0 +1,41 @@
+
+1:
+  name: '&eStarter-Item'
+  id: 298
+  slot: 1
+  data-value: 0
+  lore:
+    - '&7Starter Kit'
+  first-join-only: true
+2:
+  name: '&eStarter-Item'
+  id: 299
+  slot: 2
+  data-value: 0
+  lore:
+    - '&7Starter Kit'
+  first-join-only: true
+3:
+  name: '&eStarter-Item'
+  id: 300
+  slot: 3
+  data-value: 0
+  lore:
+    - '&7Starter Kit'
+  first-join-only: true
+4:
+  name: '&eStarter-Item'
+  id: 301
+  slot: 4
+  data-value: 0
+  lore:
+    - '&7Starter Kit'
+  first-join-only: true
+5:
+  name: '&eStarter-Item'
+  id: 272
+  slot: 4
+  data-value: 0
+  lore:
+    - '&7Starter Kit'
+  first-join-only: true

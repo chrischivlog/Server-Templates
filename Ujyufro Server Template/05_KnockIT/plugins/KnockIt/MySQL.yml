@@ -1,0 +1,5 @@
+username: server
+password: blau1
+database: server
+host: localhost
+port: '3306'

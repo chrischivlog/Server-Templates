@@ -1,0 +1,24 @@
+####MYSQL####
+Hostname: "localhost"
+Datenbank: "server"
+Port: "3306"
+User: "server"
+Passwort: "blau1"
+####PERMISSONS####
+# Delete Reports: report.delete
+# Goto: report.goto
+# List all Reports: report.list
+# Staff Message: report.staff
+# Report Details: report.details
+####SETTINGS####
+Prefix: "&4&lREPORT&8 \xbb "
+English: false
+####LANGUAGE####
+# Please use '&'+Colorcode for Colors.
+Report_Message_confirmed: "&aDein Report f�r %reported% wurde abgeschickt."
+Report_Message_tostaff: "&cNeuer Report von %reporter% f�r %reported%! &8[&9%reason%&8]"
+Report_Message_deletereport: "&aReport wurde gel�scht."
+Report_Message_goto: "&aDu hast dich zu %reported% teleportiert!"
+Report_Message_NoPermission: "&cKeine Rechte!"
+Report_Message_Syntax: "&cBitte nutze %rightsyntax%!"
+Report_Message_ListReport: "&e%reported% wurde wegen %reasons% reported!"

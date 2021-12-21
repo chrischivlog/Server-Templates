@@ -1,0 +1,98 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&l&eShop'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'give: 268'
+  NAME: '&8» &6&lHolz Schwert'
+  LORE:
+    - '&8(&720&8) &7Coins'
+  ID: 268
+  POSITION-X: 1
+  POSITION-Y: 2
+  PRICE: 20
+  KEEP-OPEN: true  
+  
+gold:
+  COMMAND: 'give: 283'
+  NAME: '&8» &6&lGoldenes Schwert'
+  LORE:
+    - '&8(&720&8) &7Coins'
+  ID: 283
+  POSITION-X: 3
+  POSITION-Y: 2
+  PRICE: 20
+  KEEP-OPEN: true  
+
+spawncmd1:
+  COMMAND: 'give: 272'
+  NAME: '&8» &f&lStein Schwert'
+  LORE:
+    - '&8(&750&8) &7Coins'
+  ID: 272
+  POSITION-X: 5
+  POSITION-Y: 2 
+  PRICE: 50
+  KEEP-OPEN: true 
+
+  
+spawncmd12:
+  COMMAND: 'give: 267'
+  NAME: '&8» &7&lEisen Schwert'
+  LORE:
+    - '&8(&7100&8) &7Coins'
+  ID: 267
+  POSITION-X: 7
+  POSITION-Y: 2
+  PRICE: 100
+  KEEP-OPEN: true     
+
+dia:
+  COMMAND: 'give: 276'
+  NAME: '&8» &b&lDiamant Schwert'
+  LORE:
+    - '&8(&7180&8) &7Coins'
+  ID: 276
+  POSITION-X: 9
+  POSITION-Y: 2  
+  PRICE: 180
+  KEEP-OPEN: true
+  
+zurück:
+  COMMAND: 'open: shop.yml'
+  NAME: '&8» &f&lZurück'
+  LORE:
+    - 'Gehe Zurück'
+  ID: arrow
+  POSITION-X: 9
+  POSITION-Y: 3 

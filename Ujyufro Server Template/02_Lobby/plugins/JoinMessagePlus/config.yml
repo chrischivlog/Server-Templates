@@ -1,0 +1,13 @@
+# JoinMessagePlus
+#       
+# UseDisplayName: false - Should the player's display name be used
+# EnableJoinMessage: true/false - Should the Join-Message be enabled.
+# EnableQuitMessage: true/false - Should the Quit-Message be anabled.
+# JoinMessage: '&6[&a+&6] %player' - Your custom Join-Message (%player will be replaced with the player's names).
+# JoinMessage: '&6[&4-&6] %player' - Your custom Join-Message (%player will be replaced with the player's names).
+#       
+UseDisplayName: false
+EnableJoinMessage: false
+EnableQuitMessage: false
+JoinMessage: '&6[&a+&6] %player'
+QuitMessage: '&6[&4-&6] %player'

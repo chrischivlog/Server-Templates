@@ -1,0 +1,96 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&l&eShop'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'give: apple'
+  NAME: '&8» &c&lApfel'
+  LORE:
+    - '&8(&71&8) &7Coins'
+  ID: apple
+  POSITION-X: 1
+  POSITION-Y: 2
+  PRICE: 1
+  KEEP-OPEN: true
+spawncmd1:
+  COMMAND: 'give: 282, 3'
+  NAME: '&8» &6&lPilz Suppe'
+  LORE:
+    - '&8(&710&8) &7Coins'
+  ID: 282
+  POSITION-X: 3
+  POSITION-Y: 2
+  PRICE: 10
+  KEEP-OPEN: true
+  
+spawncmd12:
+  COMMAND: 'give: 320, 10'
+  NAME: '&8» &b&lSchweine Fleisch'
+  LORE:
+    - '&8(&715&8) &7Coins'
+  ID: 320
+  POSITION-X: 5
+  POSITION-Y: 2
+  PRICE: 15
+  KEEP-OPEN: true    
+
+cake:
+  COMMAND: 'give: cake'
+  NAME: '&8» &5&lKuchen'
+  LORE:
+    - '&8(&720&8) &7Coins'
+  ID: cake
+  POSITION-X: 7
+  POSITION-Y: 2
+  PRICE: 20
+  KEEP-OPEN: true    
+
+golden:
+  COMMAND: 'give: golden_apple'
+  NAME: '&8» &e&lGoldener Apfel'
+  LORE:
+    - '&8(&770&8) &7Coins'
+  ID: golden_apple
+  POSITION-X: 9
+  POSITION-Y: 2
+  PRICE: 70 
+  KEEP-OPEN: true
+  
+zurück:
+  COMMAND: 'open: shop.yml'
+  NAME: '&8» &f&lZurück'
+  LORE:
+    - 'Gehe Zurück'
+  ID: arrow
+  POSITION-X: 9
+  POSITION-Y: 3 

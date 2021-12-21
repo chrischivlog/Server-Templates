@@ -1,0 +1,111 @@
+# 
+# Name: RankPrefixPlus
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+options:
+  auto-update: false
+  use-scoreboard-teams: false
+  update-delay-in-ticks: -1
+notifications:
+  name-in-chat:
+    highlight: false
+    sound:
+      enabled: false
+      sound: BLOCK_NOTE_PLING
+variables:
+  afk:
+    afk: '&eAFK'
+    not-afk: ''
+chat:
+  layout: "&7{PREFIX}{PLAYER}{SUFFIX} &8\xc2\xbb {MESSAGE}"
+  per-rank-layout: false
+  use-layout: true
+  force-lower-case: false
+  world-specific-layout:
+    enabled: false
+    world: '&7{PREFIX}{PLAYER}{SUFFIX}: {MESSAGE}'
+    world_nether: '&7{PREFIX}{PLAYER}{SUFFIX}: {MESSAGE}'
+    world_the_end: '&7{PREFIX}{PLAYER}{SUFFIX}: {MESSAGE}'
+  sound:
+    enabled: false
+    sound: UI_BUTTON_CLICK
+  local:
+    enabled: false
+    per-world: false
+    radius: -1
+ranks:
+  default:
+    prefix: '&7'
+    suffix: ''
+    scoreboard:
+      enabled: true
+      prefix: '&7'
+      suffix: ''
+      tab-priority: 1
+    required-permission: ''
+    message-color: '&f'
+    bypass-OP: false
+    chat-layout: "&7{PREFIX}{PLAYER}{SUFFIX}&8\xe2\u20ac\xba {MESSAGE}"
+  admin:
+    prefix: "&4Owner&r &8\xe2\u017d\xa5 &4 "
+    suffix: ''
+    scoreboard:
+      enabled: true
+      prefix: '&4Owner &8-&7 '
+      suffix: ''
+      tab-priority: 11
+    required-permission: RankPrefixPlus.admin
+    message-color: '&f'
+    bypass-OP: true
+    chat-layout: "&7{PREFIX}{PLAYER}{SUFFIX}&8\xe2\u20ac\xba {MESSAGE}"
+  order:
+  - admin
+  - Moderator
+  - VIP
+  - Premium
+  - default
+  VIP:
+    prefix: '&5'
+    suffix: ''
+    scoreboard:
+      enabled: true
+      prefix: '&5'
+      suffix: ''
+      tab-priority: 4
+    required-permission: RankPrefixPlus.VIP
+    message-color: '&f'
+    bypass-OP: false
+    chat-layout: "&7{PREFIX}{PLAYER}{SUFFIX}&8\xe2\u20ac\xba {MESSAGE}"
+  Premium:
+    prefix: '&6'
+    suffix: ''
+    scoreboard:
+      enabled: true
+      prefix: '&6'
+      suffix: ''
+      tab-priority: 3
+    required-permission: RankPrefixPlus.Premium
+    message-color: '&f'
+    bypass-OP: false
+    chat-layout: "&7{PREFIX}{PLAYER}{SUFFIX}&8\xe2\u20ac\xba {MESSAGE}"
+  Moderator:
+    prefix: "&cMod&r &8\xe2\u017d\xa5 &C "
+    suffix: ''
+    scoreboard:
+      enabled: true
+      prefix: '&cMod &8-&7 '
+      suffix: ''
+      tab-priority: 8
+    required-permission: RankPrefixPlus.Moderator
+    message-color: '&f'
+    bypass-OP: false
+    chat-layout: "&7{PREFIX}{PLAYER}{SUFFIX}&8\xe2\u20ac\xba {MESSAGE}"

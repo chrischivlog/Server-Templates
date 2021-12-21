@@ -1,0 +1,49 @@
+Owner:
+  prefix: ' &4OWNER &8⎟&7 '
+  chatcolor: '&f '
+  tabprefix: '&4O &8|&7 '
+Admin:
+  prefix: ' &4ADMIN &8⎟&7 '
+  chatcolor: '&f '
+  tabprefix: '&4A &8|&7 '
+Mod:
+  prefix: ' &3MOD &8⎟&7 '
+  chatcolor: '&f '
+  tabprefix: '&3M &8|&7 '
+YTer:
+  prefix: ' &5YOUTUBER &8⎟&7 '
+  chatcolor: '&f '
+  tabprefix: '&5Y &8|&7 '
+Premium:
+  prefix: '&6'
+  chatcolor: '&f '
+  tabprefix: '&6'
+Dev:
+  prefix: '&8[&bDeveloper&8]&b '
+  chatcolor: '&7 '
+  tabprefix: '&b'
+Builder:
+  prefix: '&8[&aBuilder&8]&a '
+  chatcolor: '&7 '
+  tabprefix: '&a'
+ExtraRang1:
+  prefix: '&8[&2ExtraRang&8]&3 '
+  chatcolor: '&7 '
+  tabprefix: '&3'
+ExtraRang2:
+  prefix: '&8[&2ExtraRang&8]&3 '
+  chatcolor: '&7 '
+  tabprefix: '&3'
+ExtraRang3:
+  prefix: '&8[&2ExtraRang&8]&3 '
+  chatcolor: '&7 '
+  tabprefix: '&3'
+ExtraRang4:
+  prefix: '&8[&2ExtraRang&8]&3 '
+  chatcolor: '&7 '
+  tabprefix: '&3'
+Spieler:
+  prefix: ' &eSpieler &8⎟&7 '
+  chatcolor: '&f '
+  tabprefix: '&eS &8|&7 '
+GlobalSuffix: ' &l&7»'

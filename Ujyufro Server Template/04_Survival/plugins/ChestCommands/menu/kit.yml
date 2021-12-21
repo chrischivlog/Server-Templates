@@ -1,0 +1,65 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&l&cKits'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'kit;kits;k'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'give: 268; give: 270; give:269; Give: 290; give:298; give:299; give:300; give:301; give: 320, 10'
+  NAME: '&8» &c&lStarter Kit'
+  LORE:
+    - '&8(&75&8) &7Coins'
+  ID: 268
+  POSITION-X: 2
+  POSITION-Y: 2
+  PRICE: 5
+spawncmd1:
+  COMMAND: ''
+  NAME: '&8» &c&lFortgeschritten Kit'
+  LORE:
+    - '&8(&730&8) &7Coins'
+  ID: stone_sword
+  POSITION-X: 5
+  POSITION-Y: 2
+  PRICE: 30
+profi:
+  COMMAND: ''
+  NAME: '&8» &c&lProfi Kit'
+  LORE:
+    - '&8(&740&8) &7Coins'
+  ID: iron_sword
+  POSITION-X: 8
+  POSITION-Y: 2 
+  PRICE: 40 

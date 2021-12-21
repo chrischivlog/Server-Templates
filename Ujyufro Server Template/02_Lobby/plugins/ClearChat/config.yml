@@ -1,0 +1,7 @@
+Config:
+  CC:
+    message: '&aThe Global Chat was cleared by &name.'
+  ICC:
+    message: '&4Your Chat was cleared.'
+  Permissions:
+    message: '&cYou havent the Permissions to perform the Command.'

@@ -1,0 +1,72 @@
+[20:48:14] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:48:14] [Server thread/INFO]: Loading properties
+[20:48:14] [Server thread/INFO]: Default game type: ADVENTURE
+[20:48:14] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:48:14] [Server thread/INFO]: Unable to find file ops.json, creating it.
+[20:48:14] [Server thread/INFO]: Debug logging is disabled
+[20:48:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:48:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:48:14] [Server thread/INFO]: Generating keypair
+[20:48:14] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25567
+[20:48:14] [Server thread/INFO]: Using default channel type
+[20:48:15] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:48:15] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[20:48:15] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:48:15] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[20:48:15] [Server thread/INFO]: [Gungame] Loading Gungame v1.2.1
+[20:48:15] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[20:48:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:48:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:48:15] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:48:15] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:48:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:48:15] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:48:15] [Server thread/INFO]: Preparing level "world"
+[20:48:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:48:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:48:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:48:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:48:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:48:15] [Server thread/INFO]: View Distance: 10
+[20:48:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:48:15] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:48:15] [Server thread/INFO]: Clear tick list: false
+[20:48:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:48:15] [Server thread/INFO]: Max Entity Collisions: 8
+[20:48:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:48:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:48:15] [Server thread/INFO]: Mob Spawn Range: 4
+[20:48:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:48:15] [Server thread/INFO]: Anti X-Ray: true
+[20:48:15] [Server thread/INFO]: 	Engine Mode: 1
+[20:48:15] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:48:15] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:48:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:48:15] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:48:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:48:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:48:15] [Server thread/INFO]: Random Lighting Updates: false
+[20:48:15] [Server thread/INFO]: Structure Info Saving: true
+[20:48:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:48:15] [Server thread/INFO]: Max TNT Explosions: 100
+[20:48:15] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3357321156719152437)
+[20:48:16] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[20:48:16] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[20:48:16] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[20:48:16] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[20:48:16] [Server thread/INFO]: [Gungame] Enabling Gungame v1.2.1
+[20:48:16] [Server thread/INFO]: [0;30;1m[[0;33;22mMySQL[0;30;1m] [0;36;22mVerbindung zur MySQL-Datenbank wurde herrgestellt[0;30;1m.[m
+[20:48:16] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[20:48:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:48:16] [Server thread/INFO]: Done (1,201s)! For help, type "help" or "?"
+[20:48:17] [Thread-6/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:48:22] [Thread-7/WARN]: [CS-CoreLib - Updater] Could not connect to BukkitDev, is it down?
+[20:49:32] [Thread-8/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:49:32] [Server thread/INFO]: ChrischiMc[/127.0.0.1:58032] logged in with entity id 0 at ([world]-2.5784873043349044, 21.0, -105.53436139366322)

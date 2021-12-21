@@ -1,0 +1,91 @@
+[20:48:26] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:48:26] [Server thread/INFO]: Loading properties
+[20:48:26] [Server thread/INFO]: Default game type: ADVENTURE
+[20:48:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:48:26] [Server thread/INFO]: Unable to find file ops.json, creating it.
+[20:48:26] [Server thread/INFO]: Debug logging is disabled
+[20:48:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:48:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:48:26] [Server thread/INFO]: Generating keypair
+[20:48:26] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25566
+[20:48:26] [Server thread/INFO]: Using default channel type
+[20:48:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:48:27] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[20:48:27] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:48:27] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[20:48:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[20:48:27] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[20:48:27] [Server thread/INFO]: [KnockIt] Loading KnockIt v1.0
+[20:48:27] [Server thread/INFO]: [MiRespawn] Loading MiRespawn v1.3.2
+[20:48:27] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[20:48:27] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[20:48:27] [Server thread/INFO]: [Spectator] Loading Spectator v1.3.4
+[20:48:27] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[20:48:27] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[20:48:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:48:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:48:27] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:48:27] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:48:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:48:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:48:27] [Server thread/INFO]: Preparing level "world"
+[20:48:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:48:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:48:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:48:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:48:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:48:27] [Server thread/INFO]: View Distance: 10
+[20:48:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:48:27] [Server thread/INFO]: Clear tick list: false
+[20:48:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:48:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:48:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:48:27] [Server thread/INFO]: Max Entity Collisions: 8
+[20:48:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:48:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:48:27] [Server thread/INFO]: Max TNT Explosions: 100
+[20:48:27] [Server thread/INFO]: Mob Spawn Range: 4
+[20:48:27] [Server thread/INFO]: Anti X-Ray: true
+[20:48:27] [Server thread/INFO]: 	Engine Mode: 1
+[20:48:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:48:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:48:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:48:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:48:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:48:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:48:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:48:27] [Server thread/INFO]: Random Lighting Updates: false
+[20:48:27] [Server thread/INFO]: Structure Info Saving: true
+[20:48:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5941612010757044687)
+[20:48:28] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[20:48:28] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[20:48:28] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[20:48:28] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[20:48:28] [Server thread/INFO]: [NoWeather] Invalid world in config: world_nether
+[20:48:28] [Server thread/INFO]: [NoWeather] Invalid world in config: world_the_end
+[20:48:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[20:48:28] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:48:28] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:48:28] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[20:48:28] [Server thread/INFO]: [KnockIt] Enabling KnockIt v1.0
+[20:48:28] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[20:48:28] [Server thread/INFO]: [0;32;1mMySQL MySQL connected[m
+[20:48:28] [Server thread/INFO]: [0;31;22mMySQL MySQL Table created[m
+[20:48:28] [Server thread/INFO]: [MiRespawn] Enabling MiRespawn v1.3.2
+[20:48:28] [Server thread/INFO]: [MiRespawn] Load success
+[20:48:28] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[20:48:28] [Server thread/INFO]: [Spectator] Enabling Spectator v1.3.4
+[20:48:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:48:28] [Thread-6/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:48:29] [Server thread/INFO]: Done (1,187s)! For help, type "help" or "?"
+[20:48:34] [Thread-8/WARN]: [CS-CoreLib - Updater] Could not connect to BukkitDev, is it down?
+[20:56:22] [Thread-9/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:56:22] [Server thread/INFO]: ChrischiMc[/127.0.0.1:57380] logged in with entity id 0 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[20:57:20] [Server thread/INFO]: ChrischiMc lost connection: Disconnected

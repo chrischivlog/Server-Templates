@@ -1,0 +1,5 @@
+# Make sure you list them exactly as they are in your files (exact capitals)
+worlds:
+  - world
+  - world_nether
+  - world_the_end

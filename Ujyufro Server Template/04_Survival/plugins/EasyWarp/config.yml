@@ -1,0 +1,94 @@
+############################
+##  === [ EASY WARP ] === ##
+############################
+
+# Name displayed in messages sent to player from plugin.
+# ex. [server-name] You have been warped.
+server-name: "&a&lWARP &8&l» "
+
+# Delay (in seconds) before a person is warped.
+warp-delay: 2
+
+
+#============================================================================================================================#
+#============================================================================================================================#
+#============================================================================================================================#
+
+
+#Variables:
+#{server}
+#{delay}
+#{name}
+#{display}
+#{node}
+#{command}
+
+#{page}
+#{pages}
+
+#{target}
+
+#Messages to be sent
+messages:
+  warp:
+    other: "{server}&7Du wurdest von &c{target}&7 zum Warp &e{warp} gesendet."
+    cancelled: "{server}&cWarp unterbrochen, du hast dich bewegt."
+    completed: "{server}&7Du bist beim Warp: &c{warp}."
+    delayed: "{server}&7Du wirst in &e{delay}&7sek. Gewarpt."
+    removed: "{server}&a The warp &c{warp} &ahas been removed."
+    set: "{server}&a The warp &c{warp} &ahas been set."
+    list: "{server}&a Available Warps&c ({page}/{pages})"
+    no-permission:
+    - "&cError: You do not have permission to use this warp."
+    - "&c -> To list available warps, use /warps"
+  error:
+    illegal-char: "&cError: Your warp contains an unusable character."
+    no-warp:
+    - "&cError: This warp does not exist."
+    - "&c -> To list available warps, use /warps"
+    no-warp-given:
+    - "&cError: /warp <warp> || /warp <player> <warp>"
+    - "&c -> To list available warps, use /warps"
+    no-permission: "$cError: You need the '{node}' permission node to do this."
+    no-page: "&cError: /{command} <page #>"
+    no-player: "&cError: Player not found."
+    not-player: "&cError: You must be a player to do this."
+    cannot-overwrite: "&cError: This warp already exists."
+  config:
+    reloaded: "{server}&a Config reloaded."
+
+#Example of multi-lined message
+#  example:
+#  - This line comes first
+#  - Then this one
+
+
+#============================================================================================================================#
+#============================================================================================================================#
+#============================================================================================================================#
+
+
+# If set to true, a person needs permissions for 'easywarp.warp.<warpname>' to use a warp or 'easywarp.warp.*' to use all warps.
+per-warp-permissions: false
+
+# If set to true, a person needs permissions for 'easywarp.sign.use' to use warp signs
+signs-require-permissions: false
+
+# If set to true, a person needs per-warp permissions to use warp signs, even if per-warp-permissions is set to false above.
+# It is recommended you leave this 'false'
+signs-per-warp-permissions: false
+
+# If set to true, a person bypasses any warp delay if the have permissions for 'easywarp.delay.bypass'
+permissions-bypass-delay: false
+
+# If set to true, a person bypasses any warp delay if they are ops.
+ops-bypass-delay: false
+
+# If set to true, when warping another player (/warp player warp) the player will bypass the delay
+warp-other-bypass-delay: true
+
+# If set to true, when warping using a sign the player will bypass the delay
+signs-bypass-delay: true
+
+# If set to false, you will receive an error when trying to /setwarp an existing warp
+allow-warp-overwrite: false

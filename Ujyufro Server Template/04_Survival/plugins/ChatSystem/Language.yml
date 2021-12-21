@@ -1,0 +1,31 @@
+clearchat:
+  bypass: '&7[&4System&7]&8: &7DerChat wurde von %PLAYER% geleert.'
+  chatclear: '&7[&4System&7]&8: &7DerChat wurde von %PLAYER% geleert.'
+messages:
+  ts: '&7[&4System&7]&8: &7Unsere Teamspeak IP: &ets.test.de.'
+  voteline1: '&7------------------------------------------'
+  voteline2: '&cVoteLink1:&e vote.vote1.de'
+  voteline3: '&cVoteLink2:&e vote.vote2.de'
+  voteline4: '&7------------------------------------------'
+  onlyproxy: '&cDu musst über den Proxy Joinen.'
+  noPermission: '&cKeine Berechtigung.'
+join:
+  motdline1: ' '
+  motdline2: '&aHerzlich Willkommen!'
+  motdline3: '&fDanke dass du dich fuer dieses Plugin entschieden hast!'
+  motdline4: ' '
+  message: '&8» &7 %PLAYER%'
+globalmute:
+  active: '&7[&4System&7]&8: &7Globalmute wurde &aaktiviert.'
+  inactive: '&7[&4System&7]&8: &7Globalmute wurde &cdeaktiviert.'
+  disabledchat: '&7[&4System&7]&8: &7Der Chat ist derzeit deaktiviert.'
+quit:
+  message: '&8« &7%PLAYER%'
+broadcast:
+  prefix: '&8[&4SERVER&8]&c '
+report:
+  message: '&6 %sender% &chat&6 %player% &creportet, Grund: %reason% '
+  send: '&aReport versendet! '
+  usage: '&cRichtige Verwendung /report <Spieler> <Grund>!'
+commandblocker:
+  disabled: '&cUnbekannter Befehl.'

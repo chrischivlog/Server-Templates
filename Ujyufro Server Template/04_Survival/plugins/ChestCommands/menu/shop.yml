@@ -1,0 +1,72 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&l&eShop'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'shop'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'open: eat.yml'
+  NAME: '&8» &f&lEssen'
+  LORE:
+    - 'Kaufe Essen'
+  ID: 322
+  POSITION-X: 2
+  POSITION-Y: 2
+  
+  
+spawncmd1:
+  COMMAND: 'open: rustung.yml'
+  NAME: '&8» &f&lRüstung'
+  LORE:
+    - 'Kaufe Rüstung'
+  ID: iron_chestplate
+  POSITION-X: 4
+  POSITION-Y: 2 
+  
+spawncmd12:
+  COMMAND: 'open: sword.yml'
+  NAME: '&8» &f&lWaffen'
+  LORE:
+    - 'Kaufe Rüstung'
+  ID: iron_sword
+  POSITION-X: 6
+  POSITION-Y: 2
+  
+spawncmd121:
+  COMMAND: 'open: sell.yml'
+  NAME: '&8» &f&lVerkaufen'
+  LORE:
+    - 'Verkaufe Items'
+  ID: gold_nugget
+  POSITION-X: 8
+  POSITION-Y: 2       

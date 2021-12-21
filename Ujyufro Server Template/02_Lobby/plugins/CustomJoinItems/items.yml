@@ -1,0 +1,14 @@
+all-the-possible-nodes:
+  name: '&8» &l&aMinigames'
+  id: 385
+  slot: 5
+  data-value: 0
+  lore:
+    - '&7Teleportiere dich zu Minigames'
+  command: 'warp minigames'
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: true
+  disabled-worlds: world_nether, world_the_end
+  give-on-world-change: true

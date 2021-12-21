@@ -1,0 +1,476 @@
+[20:48:08] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:48:08] [Server thread/INFO]: Loading properties
+[20:48:08] [Server thread/INFO]: Default game type: ADVENTURE
+[20:48:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:48:08] [Server thread/INFO]: Unable to find file ops.json, creating it.
+[20:48:08] [Server thread/INFO]: Debug logging is disabled
+[20:48:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:48:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:48:08] [Server thread/INFO]: Generating keypair
+[20:48:08] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25564
+[20:48:09] [Server thread/INFO]: Using default channel type
+[20:48:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:48:09] [Server thread/INFO]: [[CCOJ]] Loading CCOJ v0.2
+[20:48:09] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:48:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:48:09] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[20:48:09] [Server thread/INFO]: [JMP] Loading JoinMessagePlus v2.2
+[20:48:09] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:48:09] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:48:09] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[20:48:09] [Server thread/INFO]: [EasySetSpawn] Loading EasySetSpawn v2.0
+[20:48:09] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.8
+[20:48:09] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[20:48:09] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[20:48:09] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.4
+[20:48:09] [Server thread/INFO]: [Tablist] Loading Tablist v1.3.0.2
+[20:48:09] [Server thread/INFO]: [BuildMode] Loading BuildMode v1.1
+[20:48:09] [Server thread/INFO]: [Actionbar] Loading Actionbar v1.3.1.11
+[20:48:09] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:48:09] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[20:48:09] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[20:48:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:48:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:48:09] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:48:09] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:48:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:48:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:48:09] [Server thread/INFO]: Preparing level "world"
+[20:48:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:48:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:48:09] [Server thread/INFO]: View Distance: 10
+[20:48:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:48:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:48:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:48:09] [Server thread/INFO]: Clear tick list: false
+[20:48:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:48:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:48:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:48:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:48:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:48:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:48:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:48:09] [Server thread/INFO]: Random Lighting Updates: false
+[20:48:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:48:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:48:09] [Server thread/INFO]: Max TNT Explosions: 100
+[20:48:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:48:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:48:09] [Server thread/INFO]: Structure Info Saving: true
+[20:48:09] [Server thread/INFO]: Max Entity Collisions: 8
+[20:48:09] [Server thread/INFO]: Mob Spawn Range: 4
+[20:48:09] [Server thread/INFO]: Anti X-Ray: true
+[20:48:09] [Server thread/INFO]: 	Engine Mode: 1
+[20:48:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:48:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:48:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5099568097714435373)
+[20:48:10] [Server thread/INFO]: [[CCOJ]] Enabling CCOJ v0.2
+[20:48:10] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:48:10] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:48:10] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:48:10] [Server thread/INFO]: [Citizens] Fehler bei der Economy-Integration. Wurde Vault aktiviert?
+[20:48:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:48:11] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:48:11] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:48:11] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[20:48:11] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[20:48:11] [Server thread/INFO]: [JMP] Enabling JoinMessagePlus v2.2
+[20:48:11] [Server thread/INFO]: []---- JoinMessagePlus ----[]
+[20:48:11] [Server thread/INFO]: Version: 2.2
+[20:48:11] [Server thread/INFO]: Web: dev.bukkit.org/bukkit-plugins/join-message-plus/
+[20:48:11] [Server thread/INFO]: By AndyCraftz
+[20:48:11] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:48:11] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[20:48:11] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[20:48:11] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:48:11] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[20:48:11] [Server thread/INFO]: [NoWeather] Invalid world in config: world_nether
+[20:48:11] [Server thread/INFO]: [NoWeather] Invalid world in config: world_the_end
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] Enabling EasySetSpawn v2.0
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] 
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn enabled!
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] 
+[20:48:11] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:48:11] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.8
+[20:48:11] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[20:48:11] [Server thread/INFO]: Injecting command information into Citizens.[m
+[20:48:11] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[20:48:11] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.4
+[20:48:12] [Server thread/INFO]: [Tablist] Enabling Tablist v1.3.0.2
+[20:48:12] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Economy
+[20:48:12] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Chat
+[20:48:12] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 enabled!!
+[20:48:12] [Server thread/INFO]: [BuildMode] Enabling BuildMode v1.1
+[20:48:12] [Server thread/INFO]: [BuildMode] Build Mode > Loading the plugin...
+[20:48:12] [Server thread/INFO]: [BuildMode] Build Mode > Plugin loaded!
+[20:48:12] [Server thread/INFO]: [Actionbar] Enabling Actionbar v1.3.1.11
+[20:48:12] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Economy
+[20:48:12] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Chat
+[20:48:12] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 enabled!!
+[20:48:12] [Thread-8/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:48:12] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:48:12] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:48:12] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:48:12] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[20:48:12] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:48:12] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:48:12] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:48:12] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[20:48:12] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[20:48:12] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[20:48:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:48:12] [Server thread/INFO]: Done (2,709s)! For help, type "help" or "?"
+[20:48:12] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.0
+[20:48:12] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[20:48:12] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[20:48:12] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v4.0.3[0;37;1m (yours: v3.1.4)[m
+[20:48:12] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[20:48:12] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[20:48:12] [Server thread/INFO]: [Citizens] 8 NPCs geladen.
+[20:48:17] [Thread-13/WARN]: [CS-CoreLib - Updater] Could not connect to BukkitDev, is it down?
+[20:48:32] [Thread-14/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:48:32] [Server thread/INFO]: ChrischiMc[/127.0.0.1:64895] logged in with entity id 35 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[20:48:45] [Server thread/INFO]: ChrischiMc issued server command: /op
+[20:48:53] [Server thread/INFO]: ChrischiMc issued server command: /pex
+[20:49:04] [Server thread/INFO]: ChrischiMc issued server command: /deop chrischimc
+[20:49:04] [Server thread/INFO]: [ChrischiMc: Could not de-op chrischimc]
+[20:49:25] [Server thread/INFO]: ChrischiMc issued server command: /gamemode 2
+[20:49:25] [Server thread/INFO]: [ChrischiMc: Set own game mode to Adventure Mode]
+[20:49:31] [Server thread/INFO]: ChrischiMc issued server command: /1
+[20:49:32] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[20:52:42] [Thread-15/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:52:42] [Server thread/INFO]: ChrischiMc[/127.0.0.1:58246] logged in with entity id 39 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[20:52:52] [Server thread/INFO]: ChrischiMc issued server command: /fly
+[20:52:55] [Server thread/INFO]: ChrischiMc issued server command: /hd
+[20:53:00] [Server thread/INFO]: ChrischiMc issued server command: /hd edit
+[20:53:04] [Server thread/INFO]: ChrischiMc issued server command: /hd list
+[20:53:13] [Server thread/INFO]: ChrischiMc issued server command: /hd tp info
+[20:55:09] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[20:56:04] [Thread-16/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:56:04] [Server thread/INFO]: ChrischiMc[/127.0.0.1:57341] logged in with entity id 44 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[20:56:08] [Server thread/INFO]: ChrischiMc issued server command: /reload
+[20:56:08] [Server thread/INFO]: ChrischiMc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[20:56:08] [Server thread/INFO]: ChrischiMc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[20:56:08] [Server thread/INFO]: Debug logging is disabled
+[20:56:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:56:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:56:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:56:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:56:08] [Server thread/INFO]: View Distance: 10
+[20:56:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:56:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:56:08] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:56:08] [Server thread/INFO]: Clear tick list: false
+[20:56:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:56:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:56:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:56:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:56:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:56:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:56:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:56:08] [Server thread/INFO]: Random Lighting Updates: false
+[20:56:08] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:56:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:56:08] [Server thread/INFO]: Max TNT Explosions: 100
+[20:56:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:56:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:56:08] [Server thread/INFO]: Structure Info Saving: true
+[20:56:08] [Server thread/INFO]: Max Entity Collisions: 8
+[20:56:08] [Server thread/INFO]: Mob Spawn Range: 4
+[20:56:08] [Server thread/INFO]: Anti X-Ray: true
+[20:56:08] [Server thread/INFO]: 	Engine Mode: 1
+[20:56:08] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:56:08] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:56:08] [Server thread/INFO]: [RankPrefixPlus] Disabling RankPrefixPlus v1.7.2
+[20:56:08] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.12
+[20:56:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[20:56:08] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:56:08] [Server thread/INFO]: [Actionbar] Disabling Actionbar v1.3.1.11
+[20:56:08] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 disabled!!
+[20:56:08] [Server thread/INFO]: [BuildMode] Disabling BuildMode v1.1
+[20:56:08] [Server thread/INFO]: [BuildMode] Build Mode > Disabling the plugin...
+[20:56:08] [Server thread/INFO]: [BuildMode] Build Mode > Plugin Disabled!
+[20:56:08] [Server thread/INFO]: [Tablist] Disabling Tablist v1.3.0.2
+[20:56:08] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 disabled!!
+[20:56:08] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.4
+[20:56:08] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
+[20:56:08] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.7.2
+[20:56:08] [Server thread/INFO]: [EasyWarp] Disabling EasyWarp v3.8
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] Disabling EasySetSpawn v2.0
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] 
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn disabled!
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] 
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:56:08] [Server thread/INFO]: [NoWeather] Disabling NoWeather v2.0
+[20:56:08] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[20:56:08] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:56:08] [Server thread/INFO]: [JMP] Disabling JoinMessagePlus v2.2
+[20:56:08] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[20:56:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:56:08] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:56:08] [Server thread/INFO]: [[CCOJ]] Disabling CCOJ v0.2
+[20:56:08] [Server thread/INFO]: [[CCOJ]] Loading CCOJ v0.2
+[20:56:08] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:56:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:56:08] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[20:56:08] [Server thread/INFO]: [JMP] Loading JoinMessagePlus v2.2
+[20:56:08] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:56:08] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:56:08] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] Loading EasySetSpawn v2.0
+[20:56:08] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.8
+[20:56:08] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[20:56:08] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[20:56:08] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.4
+[20:56:08] [Server thread/INFO]: [Tablist] Loading Tablist v1.3.0.2
+[20:56:08] [Server thread/INFO]: [BuildMode] Loading BuildMode v1.1
+[20:56:08] [Server thread/INFO]: [Actionbar] Loading Actionbar v1.3.1.11
+[20:56:08] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:56:08] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[20:56:08] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[20:56:08] [Server thread/INFO]: [[CCOJ]] Enabling CCOJ v0.2
+[20:56:08] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:56:08] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:56:08] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:56:08] [Server thread/INFO]: [Citizens] Fehler bei der Economy-Integration. Wurde Vault aktiviert?
+[20:56:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:56:08] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:56:08] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:56:08] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[20:56:08] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[20:56:08] [Server thread/INFO]: [JMP] Enabling JoinMessagePlus v2.2
+[20:56:08] [Server thread/INFO]: []---- JoinMessagePlus ----[]
+[20:56:08] [Server thread/INFO]: Version: 2.2
+[20:56:08] [Server thread/INFO]: Web: dev.bukkit.org/bukkit-plugins/join-message-plus/
+[20:56:08] [Server thread/INFO]: By AndyCraftz
+[20:56:08] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:56:08] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[20:56:08] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[20:56:08] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:56:08] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[20:56:08] [Server thread/INFO]: [NoWeather] Invalid world in config: world_nether
+[20:56:08] [Server thread/INFO]: [NoWeather] Invalid world in config: world_the_end
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] Enabling EasySetSpawn v2.0
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] 
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn enabled!
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] 
+[20:56:08] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:56:08] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.8
+[20:56:08] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[20:56:08] [Server thread/INFO]: Injecting command information into Citizens.[m
+[20:56:08] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[20:56:08] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.4
+[20:56:08] [Server thread/INFO]: [0;31;1m[HolographicDisplays] Please do not use /reload or plugin reloaders. Use the command "/holograms reload" instead. You will receive no support for doing this operation.[m
+[20:56:08] [Server thread/INFO]: [Tablist] Enabling Tablist v1.3.0.2
+[20:56:08] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Economy
+[20:56:08] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Chat
+[20:56:08] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 enabled!!
+[20:56:08] [Server thread/INFO]: [BuildMode] Enabling BuildMode v1.1
+[20:56:08] [Server thread/INFO]: [BuildMode] Build Mode > Loading the plugin...
+[20:56:08] [Server thread/INFO]: [BuildMode] Build Mode > Plugin loaded!
+[20:56:08] [Server thread/INFO]: [Actionbar] Enabling Actionbar v1.3.1.11
+[20:56:08] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Economy
+[20:56:08] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Chat
+[20:56:08] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 enabled!!
+[20:56:08] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:56:08] [Thread-19/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:56:08] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:56:08] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:56:08] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[20:56:08] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:56:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:56:08] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:56:08] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[20:56:08] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[20:56:08] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[20:56:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:56:09] [Server thread/INFO]: ChrischiMc: [0;32;1mReload complete.[m
+[20:56:09] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v4.0.3[0;37;1m (yours: v3.1.4)[m
+[20:56:09] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[20:56:09] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[20:56:09] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.0
+[20:56:09] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[20:56:09] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[20:56:09] [Server thread/INFO]: [Citizens] 8 NPCs geladen.
+[20:56:14] [Thread-24/WARN]: [CS-CoreLib - Updater] Could not connect to BukkitDev, is it down?
+[20:56:20] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[20:56:22] [Server thread/INFO]: ChrischiMc issued server command: /2
+[20:56:22] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[20:57:20] [Thread-25/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[20:57:20] [Server thread/INFO]: ChrischiMc[/127.0.0.1:60828] logged in with entity id 65 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[20:57:24] [Server thread/INFO]: ChrischiMc issued server command: /reload
+[20:57:24] [Server thread/INFO]: ChrischiMc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[20:57:24] [Server thread/INFO]: ChrischiMc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[20:57:24] [Server thread/INFO]: Debug logging is disabled
+[20:57:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:57:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:57:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:57:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:57:24] [Server thread/INFO]: View Distance: 10
+[20:57:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:57:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:57:24] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[20:57:24] [Server thread/INFO]: Clear tick list: false
+[20:57:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:57:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:57:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[20:57:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:57:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:57:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:57:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[20:57:24] [Server thread/INFO]: Random Lighting Updates: false
+[20:57:24] [Server thread/INFO]: Sending up to 10 chunks per packet
+[20:57:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:57:24] [Server thread/INFO]: Max TNT Explosions: 100
+[20:57:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[20:57:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:57:24] [Server thread/INFO]: Structure Info Saving: true
+[20:57:24] [Server thread/INFO]: Max Entity Collisions: 8
+[20:57:24] [Server thread/INFO]: Mob Spawn Range: 4
+[20:57:24] [Server thread/INFO]: Anti X-Ray: true
+[20:57:24] [Server thread/INFO]: 	Engine Mode: 1
+[20:57:24] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[20:57:24] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[20:57:24] [Server thread/INFO]: [RankPrefixPlus] Disabling RankPrefixPlus v1.7.2
+[20:57:24] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.12
+[20:57:24] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[20:57:24] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:57:24] [Server thread/INFO]: [Actionbar] Disabling Actionbar v1.3.1.11
+[20:57:24] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 disabled!!
+[20:57:24] [Server thread/INFO]: [BuildMode] Disabling BuildMode v1.1
+[20:57:24] [Server thread/INFO]: [BuildMode] Build Mode > Disabling the plugin...
+[20:57:24] [Server thread/INFO]: [BuildMode] Build Mode > Plugin Disabled!
+[20:57:24] [Server thread/INFO]: [Tablist] Disabling Tablist v1.3.0.2
+[20:57:24] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 disabled!!
+[20:57:24] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.4
+[20:57:24] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
+[20:57:24] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.7.2
+[20:57:24] [Server thread/INFO]: [EasyWarp] Disabling EasyWarp v3.8
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] Disabling EasySetSpawn v2.0
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] 
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn disabled!
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] 
+[20:57:24] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:57:24] [Server thread/INFO]: [NoWeather] Disabling NoWeather v2.0
+[20:57:24] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[20:57:24] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:57:24] [Server thread/INFO]: [JMP] Disabling JoinMessagePlus v2.2
+[20:57:24] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[20:57:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:57:24] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:57:24] [Server thread/INFO]: [[CCOJ]] Disabling CCOJ v0.2
+[20:57:25] [Server thread/INFO]: [[CCOJ]] Loading CCOJ v0.2
+[20:57:25] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:57:25] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:57:25] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[20:57:25] [Server thread/INFO]: [JMP] Loading JoinMessagePlus v2.2
+[20:57:25] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:57:25] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:57:25] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] Loading EasySetSpawn v2.0
+[20:57:25] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.8
+[20:57:25] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[20:57:25] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[20:57:25] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.4
+[20:57:25] [Server thread/INFO]: [Tablist] Loading Tablist v1.3.0.2
+[20:57:25] [Server thread/INFO]: [BuildMode] Loading BuildMode v1.1
+[20:57:25] [Server thread/INFO]: [Actionbar] Loading Actionbar v1.3.1.11
+[20:57:25] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:57:25] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[20:57:25] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[20:57:25] [Server thread/INFO]: [[CCOJ]] Enabling CCOJ v0.2
+[20:57:25] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:57:25] [Server thread/WARN]: [[CCOJ]] Default system encoding may have misread config.yml from plugin jar
+[20:57:25] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[20:57:25] [Server thread/INFO]: [Citizens] Fehler bei der Economy-Integration. Wurde Vault aktiviert?
+[20:57:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[20:57:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:57:25] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:57:25] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[20:57:25] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[20:57:25] [Server thread/INFO]: [JMP] Enabling JoinMessagePlus v2.2
+[20:57:25] [Server thread/INFO]: []---- JoinMessagePlus ----[]
+[20:57:25] [Server thread/INFO]: Version: 2.2
+[20:57:25] [Server thread/INFO]: Web: dev.bukkit.org/bukkit-plugins/join-message-plus/
+[20:57:25] [Server thread/INFO]: By AndyCraftz
+[20:57:25] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:57:25] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[20:57:25] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[20:57:25] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:57:25] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[20:57:25] [Server thread/INFO]: [NoWeather] Invalid world in config: world_nether
+[20:57:25] [Server thread/INFO]: [NoWeather] Invalid world in config: world_the_end
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] Enabling EasySetSpawn v2.0
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] 
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn enabled!
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] 
+[20:57:25] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[20:57:25] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.8
+[20:57:25] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[20:57:25] [Server thread/INFO]: Injecting command information into Citizens.[m
+[20:57:25] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[20:57:25] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.4
+[20:57:25] [Server thread/INFO]: [0;31;1m[HolographicDisplays] Please do not use /reload or plugin reloaders. Use the command "/holograms reload" instead. You will receive no support for doing this operation.[m
+[20:57:26] [Server thread/INFO]: [Tablist] Enabling Tablist v1.3.0.2
+[20:57:26] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Economy
+[20:57:26] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Chat
+[20:57:26] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 enabled!!
+[20:57:26] [Server thread/INFO]: [BuildMode] Enabling BuildMode v1.1
+[20:57:26] [Server thread/INFO]: [BuildMode] Build Mode > Loading the plugin...
+[20:57:26] [Server thread/INFO]: [BuildMode] Build Mode > Plugin loaded!
+[20:57:26] [Server thread/INFO]: [Actionbar] Enabling Actionbar v1.3.1.11
+[20:57:26] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Economy
+[20:57:26] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Chat
+[20:57:26] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 enabled!!
+[20:57:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:57:26] [Thread-28/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[20:57:26] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:57:26] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:57:26] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[20:57:26] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:57:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:57:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:57:26] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[20:57:26] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[20:57:26] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[20:57:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:57:26] [Server thread/INFO]: ChrischiMc: [0;32;1mReload complete.[m
+[20:57:26] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v4.0.3[0;37;1m (yours: v3.1.4)[m
+[20:57:26] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[20:57:26] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[20:57:26] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.0
+[20:57:26] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[20:57:26] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[20:57:26] [Server thread/INFO]: [Citizens] 8 NPCs geladen.
+[20:57:31] [Thread-33/WARN]: [CS-CoreLib - Updater] Could not connect to BukkitDev, is it down?
+[20:58:37] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[20:58:41] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[20:58:43] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[20:58:54] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[20:59:31] [Server thread/INFO]: ChrischiMc lost connection: Disconnected

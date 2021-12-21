@@ -1,0 +1,204 @@
+General:
+  Prefix: "&cBannSystem &8&l\xbb"
+  NoPerms: "&cKeine Rechte für dieses Plugin!"
+  LayoutNotFound: "&cDieses Layout gibt es nicht %NAME%"
+  # This will be the replacement for the %DURATION% variable
+  TimeLayoutD: "%D%Tage %H%stunden %M%Min und %S%sek"
+  TimeLayoutH: "%H%Stunde(n) %M%Min und %S%sek"
+  TimeLayoutM: "%M%Min und %S%sek"
+  TimeLayoutS: "%S% Sekunden"
+
+
+Ban:
+  Usage: "&cBenutzung &8\xbb &7&o/ban [Name] [Grund/@Layout]"
+  Done: "&c&o%NAME% &7wurde Gebannt!"
+  AlreadyDone: "&c&o%NAME% &7wurde schon Gebannt!"
+  Exempt: "&7Du kannst &c&o%NAME% nicht Bannen"
+  Layout:
+  - '%PREFIX% &7Permanent Gebannt'
+  - '&7'
+  - '&7'
+  - "&cGrund &8\xbb &7%REASON%"
+  - '&7'
+  - '&8Entbannen im Teamspeak'
+  - ""
+  - "&7Teamspeak &8\xbb &cbloeckchen.net"
+  Notification:
+  - "&c&o%NAME% &7wurde gebannt von &e&o%OPERATOR%"
+  - "&7Grund &o%REASON%"
+
+Ipban:
+  Usage: "&cBenutzung &8\xbb &7&o/banip [Name/IP] [Grund/@Layout]"
+  Layout:
+  - '%PREFIX% &7Permanent Gebannt'
+  - '&7'
+  - '&7'
+  - "&cGrund &8\xbb &7%REASON%"
+  - '&7'
+  - '&8Entbannen im Teamspeak'
+  - ""
+  - "&7Teamspeak &8\xbb &cbloeckchen.net"
+  Notification:
+  - "&c&o%NAME% &7wurde gebannt von &e&o%OPERATOR%"
+  - "&7Grund &o%REASON%"
+  IpNotCashed: "&cDa ist keine sichere Ip für %NAME%!"
+
+Tempban:
+  Usage: "&cBenutzung &8\xbb &7&o/tempban [Name] [zeit-mo/zeit-d/zeit-h/zeit-m/zeit-s] [Grund]"
+  MaxDuration: "&cDu bist nicht befugt länger zu Bannen %MAX%sec"
+  Layout:
+  - '%PREFIX% &7Temporär Gebannt'
+  - '&7'
+  - '&7'
+  - "&7Grund &8\xbb &7%REASON%"
+  - "&cAblauf des Banns &8\xbb &7%DURATION%"
+  - '&7'
+  - '&8Entbannen im Teamspeak'
+  - ""
+  - "&7Teamspeak &8\xbb &cbloeckchen.net"
+  Notification:
+  - "&c&o%NAME% &7wurde gebannt von &e&o%OPERATOR%"
+  - "&7Grund &o%REASON%"
+  - "&7&oDiese Person wurde für die folgend seit gebannt &e&o%DURATION%" # "He" is only male "this person" is male and female
+
+Mute:
+  Usage: "&cBenutzung &8\xbb &7&o/mute [Name] [Grund]"
+  Done: "&c&o%NAME% &7Wurde Gemutet!"
+  AlreadyDone: "&c&o%NAME% &7Wurde schon Gemutet!"
+  Exempt: "&7Du kannst diesen spieler nicht Muten &c&o%NAME%"
+  Layout:
+  - '%PREFIX% &7Du wurdest Permanent vom Chat Gesperrt '
+  - "&cGrund &8\xbb &7%REASON%"
+  Notification:
+  - "&c&o%NAME% &7wurde Gemutet &e&o%OPERATOR%"
+  - "&7Für den Grund &o%REASON%"
+
+Tempmute:
+  Usage: "&cBenutzung &8\xbb &7&o/tempmute [Name] [Xmo/Xd/Xh/Xm/Xs] [Grund]"
+  MaxDuration: "&cDu kannst diesen spieler nicht so lange Muten %MAX%Sek"
+  Layout:
+  - '%PREFIX% &7Du wurdest für %DURATION% vom Chat Gesperrt '
+  - "&cGrund &8\xbb &7%REASON%"
+  Notification:
+  - "&c&o%NAME% &7wurde vom Chat Gesperrt &e&o%OPERATOR%"
+  - "&7Grund &o%REASON%"
+  - "&7&oZeit &e&o%DURATION%"
+
+Warn:
+  Usage: "&cBenutzung &8\xbb &7&o/warn [Name] [Grund]"
+  Done: "&c&o%NAME% &7wurde Gewarnt!"
+  Exempt: "&7Du hast keine Rechte &c&o%NAME% zu Warnen"
+  Layout:
+  - "%PREFIX% &cDu hast eine Warnung erhalten!"
+  - "&cGrund &8\xbb &7%REASON%"
+  - "&7Du hast nun &c&o%COUNT% &7Warnungen!"
+  Notification:
+  - "&c&o%NAME% &7wurde von &e&o%OPERATOR% &7gewarnt"
+  - "&7Grund &o%REASON%"
+
+Tempwarn:
+  Usage: "&cBenutzung &8\xbb &7&o/tempwarn [Name] [zeit-mo/zeit-d/zeit-h/zeit-m/zeit-s] [Grund]"
+  MaxDuration: "&cDu kannst nicht mehr als %MAX% Sekunden Muten"
+  Layout:
+  - "%PREFIX% &cDu hast eine Warung Temporär erhalten!"
+  - "&cGrund &8\xbb &7%REASON%"
+  - "&cVerbleibende Zeit: &8\xbb &7%DURATION%"
+  - "&7Du hast nun &c&o%COUNT% &7Warnungen!"
+  Notification:
+  - "&c&o%NAME% &7wurde von &e&o%OPERATOR% &7gewarnt"
+  - "&7Grund &o%REASON%"
+  - "&7Verbleibende Zeit: &o%DURATION%"
+
+Kick:
+  Usage: "&cBenutzung &8\xbb &7&o/kick [Name] [Grund]"
+  Done: "&c&o%NAME% &7wurde aus dem Netzwerk Gekickt!"
+  NotOnline: "&c&o%NAME% &7ist nicht Online!"
+  Exempt: "&7Du hast keine Rechte um &c&o%NAME%&7 zu Kicken"
+  Layout:
+  - "%PREFIX% &7Du wurdest Gekickt "
+  - "&7"
+  - "&cGrund &8\xbb &7%REASON%"
+  - "&7"
+  Notification:
+  - "&c&o%NAME% &7wurde von &e&o%OPERATOR% &7gekickt"
+  - "&7Grund &o%REASON%"
+
+
+UnBan:
+  Usage: "&cBenutzung &8\xbb &7&o/unban [Name/IP]"
+  NotPunished: "&c&o%NAME% ist nicht gebannt!"
+  Done: "&a&o%NAME% &7wurde Entbannt!"
+
+UnMute:
+  Usage: "&cBenutzung &8\xbb &7&o/unmute [Name]"
+  NotPunished: "&c&o%NAME% ist nicht vom chat gesperrt!"
+  Done: "&a&o%NAME% &7ist vom chat gesperrt!"
+
+UnWarn:
+  Usage: "&cBenutzung &8\xbb &7&o/unwarn [ID]"
+  NotFound: "&cKann ID #%ID% nicht finden!"
+  Done: "&7Warung von &a&o#%ID% &7wurde gelöscht!"
+
+
+Banlist:
+  Usage: "&cBenutzung &8\xbb &7&o/banlist <seite>"
+  OutOfIndex: "&cEs gibt keine Seite %PAGE%!"
+  NoEntries: "&c&oEs gibt keine Einträge!"
+  Header:
+  - "%PREFIX% &7Banliste:"
+  - "&c&oSpieler/IP &8| &e&oAblauf &8| &7&oGebannt von"
+  - "&c&oBann-typ &8> &7&oGrund"
+  - "&7"
+  Entry:
+  - "&8[&e%DATE%&8]"
+  - "&c%NAME% &8| &e%DURATION% &8| &7%OPERATOR%"
+  - "&c%TYPE% &8> &7&o%REASON%"
+  - "&7"
+  Footer: "&7Seite &e&o%CURRENT_PAGE% &7von &e&o%TOTAL_PAGES% &8| &7Aktive Banns: &e&o%COUNT%"
+  PageFooter: "&7Nutze &e&o/banlist %NEXT_PAGE% &7um die nächste Seite zu sehen"
+
+History:
+  Usage: "&cBenutzung &8\xbb &7&o/history [Name/IP] <Seite>"
+  OutOfIndex: "&cEs gibt keine Seite %PAGE%!"
+  NoEntries: "&c&oEs gibt keine Einträge!"
+  Header:
+  - "%PREFIX% &7History von %NAME%:"
+  - "&c&oName &8| &e&oDuration &8| &7&oOperator"
+  - "&c&oBann-typ &8> &7&oGrund"
+  - "&7"
+  Entry:
+  - "&8[&e%DATE%&8]"
+  - "&c%NAME% &8| &e%DURATION% &8| &7%OPERATOR%"
+  - "&c%TYPE% &8> &7&o%REASON%"
+  - "&7"
+  Footer: "&7Seite &e&o%CURRENT_PAGE% &7von &e&o%TOTAL_PAGES% &8| &7Gesamte einträge: &e&o%COUNT%"
+  PageFooter: "&7Nutze &e&o /history %NAME% %NEXT_PAGE% &7um die nächste Seite zu sehen"
+
+Warns:
+  Usage: "&cBenutzung &8\xbb &7&o/warns [Name] <seiten>"
+  OutOfIndex: "&cEs gibt keine Seite %PAGE%"
+  NoEntries: "&c&o%NAME% hat keine Einträge"
+  Header:
+  - "%PREFIX% &7Warungen von %NAME%:"
+  - "&c&oName &8| &e&oAblauf &8| &7&oGewarnt von"
+  - "&c&o#ID &8> &7&oGrund"
+  - "&7"
+  Entry:
+  - "&8[&e%DATE%&8]"
+  - "&c%NAME% &8| &e%DURATION% &8| &7%OPERATOR%"
+  - "&c&l#%ID% &8> &7&o%REASON%"
+  - "&7"
+  Footer: "&7Seite &e&o%CURRENT_PAGE% &7von &e&o%TOTAL_PAGES% &8| &7Gesamte einträge: &e&o%COUNT%"
+  PageFooter: "&7Nutze &e&o/warns %NAME% %NEXT_PAGE% &7um die nächste Seite zu sehen"
+
+
+Check:
+  Usage: "&cBenutzung &8\xbb &7&o/check [Name]"
+  Header: "&7Alles über &e&o%NAME%"
+  UUID: "&cUUID &8\xbb &7%UUID%"
+  IP: "&cIP &8\xbb &7%IP%"
+  Geo: "&cLand &8\xbb &7%LOCATION%"
+  Mute: "&cVom Chat Gesperrt &8\xbb &7%DURATION%"
+  Ban: "&cGebannt &8\xbb &7%DURATION%"
+  Warn: "&cWarnugen &8\xbb &7%COUNT%"
+  NotFound: "&cKonnte spieler nicht finden %NAME%"

@@ -1,0 +1,5 @@
+Enabled: false
+Motd: '&c&nServer is in Maintenance'
+KickMessages: '&c&nServer is in Maintenance'
+Version: Maintenance
+KickOnMaintenance: true

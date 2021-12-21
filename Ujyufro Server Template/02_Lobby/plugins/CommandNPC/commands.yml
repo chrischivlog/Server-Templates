@@ -1,0 +1,13 @@
+NPCS:
+  '12':
+    Commands:
+    - 2~~false
+  '14':
+    Commands:
+    - 2~~false
+  '13':
+    Commands:
+    - 1~~false
+  '15':
+    Commands:
+    - 3~~false

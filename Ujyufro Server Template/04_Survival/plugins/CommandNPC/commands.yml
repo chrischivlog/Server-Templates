@@ -1,0 +1,10 @@
+NPCS:
+  '5':
+    Commands:
+    - shop~~false
+  '6':
+    Commands:
+    - shop~~false
+  '7':
+    Commands:
+    - special~~false

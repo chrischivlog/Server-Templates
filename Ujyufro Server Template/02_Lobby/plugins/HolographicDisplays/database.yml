@@ -1,0 +1,25 @@
+sho:
+  location: world, 7.564, 8.000, 10.576
+  lines:
+  - '&c&lGUNGAME'
+  - '&7{online: gun}&8/&7{max_players: gun}'
+  - '&8(&7Klicken&8)'
+'2':
+  location: world, 7.494, 8.000, 6.519
+  lines:
+  - '&f&lKNOCKIT'
+  - '&7{online: knock}&8/&7{max_players: knock}'
+  - '&8(&7Klicken&8)'
+'3':
+  location: world, 7.560, 8.000, 2.490
+  lines:
+  - '&b&lSURVIVAL'
+  - '&7{online: su}&8/&7{max_players: su}'
+  - '&8(&7Klicken&8)'
+info:
+  location: world, 3.480, 8.729, -1.402
+  lines:
+  - '&4&lINFO:&7 Wenn eines der'
+  - '&7Hologramme so aussieht&8:'
+  - '&70&8/&70'
+  - '&7Ist der Server &4Nicht &7Online!'
