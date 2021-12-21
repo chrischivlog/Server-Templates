@@ -1,0 +1,23 @@
+multiserver:
+  use-netevents: true
+permissions:
+  debug: false
+  allowOps: false
+  user-add-groups-last: false
+  log-players: false
+  createUserRecords: false
+  backend: sql
+  informplayers:
+    changes: false
+  basedir: plugins/PermissionsEx
+  backends:
+    file:
+      type: file
+      file: permissions.yml
+    sql:
+      type: sql
+      uri: mysql://localhost/pex
+      user: pex
+      password: Ugomebunu971
+updater: true
+alwaysUpdate: false

@@ -1,0 +1,519 @@
+[00:43:18] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[00:43:18] [Server thread/INFO]: Loading properties
+[00:43:18] [Server thread/INFO]: Default game type: ADVENTURE
+[00:43:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-d3e0b6f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[00:43:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:43:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:43:19] [Server thread/INFO]: Debug logging is disabled
+[00:43:20] [Server thread/INFO]: Generating keypair
+[00:43:20] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25564
+[00:43:21] [Server thread/INFO]: Using epoll channel type
+[00:43:21] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[00:43:22] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[00:43:22] [Server thread/INFO]: [[CCOJ]] Loading CCOJ v0.2
+[00:43:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[00:43:22] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[00:43:22] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[00:43:22] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[00:43:22] [Server thread/INFO]: [JMP] Loading JoinMessagePlus v2.2
+[00:43:22] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[00:43:22] [Server thread/INFO]: [EasySetSpawn] Loading EasySetSpawn v2.0
+[00:43:22] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.8
+[00:43:22] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[00:43:22] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.4
+[00:43:22] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[00:43:22] [Server thread/INFO]: [Tablist] Loading Tablist v1.3.0.2
+[00:43:22] [Server thread/INFO]: [BuildMode] Loading BuildMode v1.1
+[00:43:22] [Server thread/INFO]: [Actionbar] Loading Actionbar v1.3.1.11
+[00:43:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[00:43:22] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[00:43:22] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[00:43:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:43:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:43:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[00:43:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[00:43:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:43:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:43:22] [Server thread/INFO]: Preparing level "world"
+[00:43:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:43:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:43:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:43:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:43:22] [Server thread/INFO]: Mob Spawn Range: 4
+[00:43:22] [Server thread/INFO]: Anti X-Ray: true
+[00:43:22] [Server thread/INFO]: 	Engine Mode: 1
+[00:43:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:43:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:43:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:43:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:43:22] [Server thread/INFO]: Random Lighting Updates: false
+[00:43:22] [Server thread/INFO]: Structure Info Saving: true
+[00:43:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:43:22] [Server thread/INFO]: Max Entity Collisions: 8
+[00:43:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:43:22] [Server thread/INFO]: Max TNT Explosions: 100
+[00:43:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:43:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:43:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:43:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:43:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:43:23] [Server thread/INFO]: View Distance: 10
+[00:43:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:43:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:43:23] [Server thread/INFO]: Clear tick list: false
+[00:43:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:43:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:43:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:43:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:43:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:43:23] [Server thread/INFO]: Mob Spawn Range: 4
+[00:43:23] [Server thread/INFO]: Anti X-Ray: true
+[00:43:23] [Server thread/INFO]: 	Engine Mode: 1
+[00:43:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:43:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:43:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:43:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:43:23] [Server thread/INFO]: Random Lighting Updates: false
+[00:43:23] [Server thread/INFO]: Structure Info Saving: true
+[00:43:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:43:23] [Server thread/INFO]: Max Entity Collisions: 8
+[00:43:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:43:23] [Server thread/INFO]: Max TNT Explosions: 100
+[00:43:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:43:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:43:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:43:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:43:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:43:23] [Server thread/INFO]: View Distance: 10
+[00:43:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:43:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:43:23] [Server thread/INFO]: Clear tick list: false
+[00:43:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:43:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5099568097714435373)
+[00:43:24] [Server thread/INFO]: Preparing spawn area: 18%
+[00:43:25] [Server thread/INFO]: Preparing spawn area: 40%
+[00:43:26] [Server thread/INFO]: Preparing spawn area: 55%
+[00:43:27] [Server thread/INFO]: Preparing spawn area: 77%
+[00:43:28] [Server thread/INFO]: Preparing spawn area: 93%
+[00:43:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4115219339563428656)
+[00:43:30] [Server thread/INFO]: Preparing spawn area: 38%
+[00:43:30] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[00:43:31] [Server thread/INFO]: [Citizens] Fehler bei der Economy-Integration. Wurde Vault aktiviert?
+[00:43:31] [Server thread/INFO]: [[CCOJ]] Enabling CCOJ v0.2
+[00:43:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7-SNAPSHOT;3677-000c238
+[00:43:33] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:43:33] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[00:43:33] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[00:43:33] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[00:43:33] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[00:43:34] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[00:43:36] [Thread-10/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[00:43:36] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[00:43:38] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[00:43:38] [Server thread/INFO]: [JMP] Enabling JoinMessagePlus v2.2
+[00:43:38] [Server thread/INFO]: []---- JoinMessagePlus ----[]
+[00:43:38] [Server thread/INFO]: Version: 2.2
+[00:43:38] [Server thread/INFO]: Web: dev.bukkit.org/bukkit-plugins/join-message-plus/
+[00:43:38] [Server thread/INFO]: By AndyCraftz
+[00:43:38] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[00:43:38] [Server thread/INFO]: [NoWeather] Invalid world in config: world_nether
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] Enabling EasySetSpawn v2.0
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] 
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] EasySetSpawn enabled!
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] 
+[00:43:38] [Server thread/INFO]: [EasySetSpawn] --------------------------
+[00:43:38] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.8
+[00:43:38] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[00:43:38] [Server thread/INFO]: Injecting command information into Citizens.[m
+[00:43:38] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.4
+[00:43:38] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[00:43:38] [Server thread/INFO]: [Tablist] Enabling Tablist v1.3.0.2
+[00:43:38] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Economy
+[00:43:38] [Server thread/INFO]: Tablist> You have to install Vault to use the part of Chat
+[00:43:38] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 enabled!!
+[00:43:38] [Server thread/INFO]: [BuildMode] Enabling BuildMode v1.1
+[00:43:38] [Server thread/INFO]: [BuildMode] Build Mode > Loading the plugin...
+[00:43:38] [Server thread/INFO]: [BuildMode] Build Mode > Plugin loaded!
+[00:43:38] [Server thread/INFO]: [Actionbar] Enabling Actionbar v1.3.1.11
+[00:43:39] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Economy
+[00:43:39] [Server thread/INFO]: Actionbar> You have to install Vault to use the part of Chat
+[00:43:39] [Server thread/INFO]: Actionbar> Actionbar v1.3.1.11 enabled!!
+[00:43:39] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[00:43:40] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:43:40] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:43:40] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:43:41] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[00:43:41] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[00:43:41] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[00:43:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:43:41] [Server thread/INFO]: Done (19,092s)! For help, type "help" or "?"
+[00:43:42] [Server thread/INFO]: [Citizens] 8 NPCs geladen.
+[00:43:43] [Thread-16/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
+[00:43:43] [Server thread/INFO]: ChrischiMc[/46.5.254.88:35536] logged in with entity id 44 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[00:43:59] [Thread-17/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[00:44:00] [Server thread/INFO]: CoredBuilds[/46.5.254.88:59461] logged in with entity id 58 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[00:44:19] [Server thread/INFO]: [0;37;1mUser groups set![m
+[00:44:23] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[00:44:26] [Thread-18/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[00:44:26] [Server thread/INFO]: CoredBuilds[/46.5.254.88:54299] logged in with entity id 59 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[00:44:29] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[00:44:37] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[00:45:10] [Server thread/INFO]: ChrischiMc issued server command: /pex group mod add RankPrefixPlus.mod
+[00:45:19] [Server thread/INFO]: [0;37;1mUser groups set![m
+[00:45:22] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[00:45:25] [Thread-19/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[00:45:25] [Server thread/INFO]: CoredBuilds[/46.5.254.88:35031] logged in with entity id 60 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[00:45:43] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[00:45:44] [Server thread/INFO]: CoredBuilds issued server command: /1
+[00:45:46] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[00:47:45] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[00:47:47] [Server thread/INFO]: ChrischiMc issued server command: /1
+[00:47:48] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[13:19:25] [Thread-32/INFO]: UUID of player TheCowSaysMoo0 is c409a64c-5758-424e-ac49-bb1c602eb4d2
+[13:19:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a100657[id=c409a64c-5758-424e-ac49-bb1c602eb4d2,name=TheCowSaysMoo0,properties={textures=[com.mojang.authlib.properties.Property@238af10]},legacy=false] (/79.205.163.53:47877): You are not whitelisted on this server!
+[13:19:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a100657[id=c409a64c-5758-424e-ac49-bb1c602eb4d2,name=TheCowSaysMoo0,properties={textures=[com.mojang.authlib.properties.Property@238af10]},legacy=false] (/79.205.163.53:47877) lost connection: You are not whitelisted on this server!
+[13:46:36] [Thread-34/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[13:46:39] [Server thread/INFO]: CoredBuilds[/46.5.254.88:58079] logged in with entity id 62 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[13:47:03] [Thread-35/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[13:47:03] [Server thread/INFO]: ChrischiMc[/46.5.254.88:57632] logged in with entity id 64 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[13:47:10] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[13:47:21] [Server thread/INFO]: ChrischiMc issued server command: /pex groups
+[13:47:39] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[13:47:57] [Server thread/INFO]: ChrischiMc issued server command: /1
+[13:48:01] [Server thread/INFO]: ChrischiMc issued server command: /3
+[13:48:02] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[13:57:40] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[13:57:41] [Server thread/INFO]: CoredBuilds issued server command: /3
+[13:57:43] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[14:00:15] [Thread-36/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[14:00:15] [Server thread/INFO]: ChrischiMc[/46.5.254.88:48554] logged in with entity id 65 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[14:00:17] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[14:00:19] [Server thread/INFO]: ChrischiMc issued server command: /3
+[14:00:20] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[14:51:04] [Thread-38/INFO]: UUID of player LupplexYT is 4857ff6e-f4d9-4a5f-b5ba-45712cad48d6
+[14:51:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6b67d9a5[id=4857ff6e-f4d9-4a5f-b5ba-45712cad48d6,name=LupplexYT,properties={textures=[com.mojang.authlib.properties.Property@572bf4c3]},legacy=false] (/93.217.172.217:51699): You are not whitelisted on this server!
+[14:51:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b67d9a5[id=4857ff6e-f4d9-4a5f-b5ba-45712cad48d6,name=LupplexYT,properties={textures=[com.mojang.authlib.properties.Property@572bf4c3]},legacy=false] (/93.217.172.217:51699) lost connection: You are not whitelisted on this server!
+[15:20:30] [Thread-39/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[15:20:30] [Server thread/INFO]: ChrischiMc[/46.5.254.88:35478] logged in with entity id 68 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:20:32] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[15:20:33] [Server thread/INFO]: ChrischiMc issued server command: /2
+[15:20:34] [Server thread/INFO]: ChrischiMc issued server command: /3
+[15:20:35] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[15:25:57] [Thread-40/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[15:25:58] [Server thread/INFO]: ChrischiMc[/46.5.254.88:60336] logged in with entity id 70 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:26:48] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[15:27:18] [Thread-41/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[15:27:18] [Server thread/INFO]: ChrischiMc[/46.5.254.88:34313] logged in with entity id 72 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:27:33] [Thread-42/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[15:27:33] [Server thread/INFO]: CoredBuilds[/46.5.254.88:36451] logged in with entity id 74 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:29:51] [Server thread/INFO]: ChrischiMc issued server command: /pex group sup add ab.tempmute.notify
+[15:29:57] [Server thread/INFO]: ChrischiMc issued server command: /pex group sup add ab.kick.notify
+[15:30:09] [Server thread/INFO]: ChrischiMc issued server command: /pex group sup add ab.ban.notify
+[15:30:58] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[15:31:13] [Thread-43/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[15:31:14] [Server thread/INFO]: CoredBuilds[/46.5.254.88:55314] logged in with entity id 75 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:31:44] [Server thread/INFO]: ChrischiMc issued server command: /pex group sup add ab.tempban.notify
+[15:32:15] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[15:32:30] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[15:32:45] [Thread-44/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[15:32:46] [Server thread/INFO]: CoredBuilds[/46.5.254.88:34939] logged in with entity id 76 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:32:46] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[15:32:47] [Server thread/INFO]: ChrischiMc issued server command: /3
+[15:32:48] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[15:33:03] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:33:04] [Server thread/INFO]: CoredBuilds issued server command: /2
+[15:33:07] [Server thread/INFO]: CoredBuilds issued server command: /2
+[15:33:09] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[15:39:02] [Thread-45/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[15:39:02] [Server thread/INFO]: ChrischiMc[/46.5.254.88:44742] logged in with entity id 77 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:39:04] [Thread-46/INFO]: UUID of player Lukas__2702 is 1ea831d4-e1ee-417a-a927-2be5045dd13f
+[15:39:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2be9c04b[id=1ea831d4-e1ee-417a-a927-2be5045dd13f,name=Lukas__2702,properties={textures=[com.mojang.authlib.properties.Property@4b7d9739]},legacy=false] (/188.106.23.136:35004): You are not whitelisted on this server!
+[15:39:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@2be9c04b[id=1ea831d4-e1ee-417a-a927-2be5045dd13f,name=Lukas__2702,properties={textures=[com.mojang.authlib.properties.Property@4b7d9739]},legacy=false] (/188.106.23.136:35004) lost connection: You are not whitelisted on this server!
+[15:39:06] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[15:39:07] [Server thread/INFO]: ChrischiMc issued server command: /2
+[15:39:08] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[15:40:06] [Thread-47/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[15:40:06] [Server thread/INFO]: ChrischiMc[/46.5.254.88:38949] logged in with entity id 80 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:40:07] [Thread-48/INFO]: UUID of player Lukas__2702 is 1ea831d4-e1ee-417a-a927-2be5045dd13f
+[15:40:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3c9f8c10[id=1ea831d4-e1ee-417a-a927-2be5045dd13f,name=Lukas__2702,properties={textures=[com.mojang.authlib.properties.Property@58179e51]},legacy=false] (/188.106.23.136:41112): You are not whitelisted on this server!
+[15:40:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c9f8c10[id=1ea831d4-e1ee-417a-a927-2be5045dd13f,name=Lukas__2702,properties={textures=[com.mojang.authlib.properties.Property@58179e51]},legacy=false] (/188.106.23.136:41112) lost connection: You are not whitelisted on this server!
+[15:40:08] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[15:40:09] [Server thread/INFO]: ChrischiMc issued server command: /2
+[15:40:10] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[15:45:22] [Thread-50/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[15:45:22] [Server thread/INFO]: CoredBuilds[/46.5.254.88:42156] logged in with entity id 83 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:45:25] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:45:37] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:45:37] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:45:38] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:45:48] [Server thread/INFO]: CoredBuilds issued server command: /2
+[15:45:50] [Server thread/INFO]: CoredBuilds issued server command: /1
+[15:45:51] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[15:47:20] [Thread-51/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[15:47:20] [Server thread/INFO]: CoredBuilds[/46.5.254.88:37123] logged in with entity id 85 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[15:47:23] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[15:47:25] [Server thread/INFO]: CoredBuilds issued server command: /3
+[15:47:26] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[16:12:21] [Thread-52/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[16:12:21] [Server thread/INFO]: CoredBuilds[/46.5.254.88:39749] logged in with entity id 87 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:12:23] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[16:12:25] [Server thread/INFO]: CoredBuilds issued server command: /3
+[16:12:26] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[16:13:06] [Thread-53/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[16:13:06] [Server thread/INFO]: CoredBuilds[/46.5.254.88:48745] logged in with entity id 89 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:13:15] [Thread-54/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[16:13:15] [Server thread/INFO]: ChrischiMc[/46.5.254.88:50452] logged in with entity id 91 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:13:18] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:13:19] [Server thread/INFO]: ChrischiMc issued server command: /3
+[16:13:20] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[16:13:28] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[16:13:29] [Server thread/INFO]: CoredBuilds issued server command: /3
+[16:13:30] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[16:14:43] [Thread-55/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[16:14:43] [Server thread/INFO]: CoredBuilds[/46.5.254.88:60608] logged in with entity id 92 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:14:58] [Thread-56/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[16:14:58] [Server thread/INFO]: ChrischiMc[/46.5.254.88:46480] logged in with entity id 94 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:15:03] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:15:11] [Server thread/INFO]: ChrischiMc issued server command: /3
+[16:15:13] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[16:15:28] [Server thread/INFO]: CoredBuilds issued server command: /2
+[16:15:30] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[16:24:23] [Thread-57/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[16:24:23] [Server thread/INFO]: ChrischiMc[/46.5.254.88:44881] logged in with entity id 95 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:24:26] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:24:28] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:27:19] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:27:21] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:27:31] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:27:38] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:30:46] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:33:45] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[16:39:03] [Thread-58/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[16:39:03] [Server thread/INFO]: ChrischiMc[/46.5.254.88:40175] logged in with entity id 97 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[16:39:07] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:39:26] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:40:12] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:40:21] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[16:46:20] [Thread-60/INFO]: UUID of player DomeZocktHD is 4b863853-4279-4e36-a973-0951bff65dc4
+[16:46:20] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fa4968b[id=4b863853-4279-4e36-a973-0951bff65dc4,name=DomeZocktHD,properties={textures=[com.mojang.authlib.properties.Property@7cea1e81]},legacy=false] (/84.152.196.20:53552): You are not whitelisted on this server!
+[16:46:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa4968b[id=4b863853-4279-4e36-a973-0951bff65dc4,name=DomeZocktHD,properties={textures=[com.mojang.authlib.properties.Property@7cea1e81]},legacy=false] (/84.152.196.20:53552) lost connection: You are not whitelisted on this server!
+[16:47:14] [Thread-61/INFO]: UUID of player DomeZocktHD is 4b863853-4279-4e36-a973-0951bff65dc4
+[16:47:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b65b69d[id=4b863853-4279-4e36-a973-0951bff65dc4,name=DomeZocktHD,properties={textures=[com.mojang.authlib.properties.Property@5bc52d37]},legacy=false] (/84.152.196.20:59194): You are not whitelisted on this server!
+[16:47:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b65b69d[id=4b863853-4279-4e36-a973-0951bff65dc4,name=DomeZocktHD,properties={textures=[com.mojang.authlib.properties.Property@5bc52d37]},legacy=false] (/84.152.196.20:59194) lost connection: You are not whitelisted on this server!
+[16:49:43] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[17:31:29] [Thread-62/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[17:31:29] [Server thread/INFO]: ChrischiMc[/46.5.254.88:52511] logged in with entity id 101 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[17:32:05] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[17:32:16] [Server thread/INFO]: ChrischiMc issued server command: /whitelist off
+[17:32:16] [Server thread/INFO]: [ChrischiMc: Turned off the whitelist]
+[17:32:39] [Thread-63/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[17:32:39] [Server thread/INFO]: Julian213[/93.211.249.124:36372] logged in with entity id 103 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[17:32:47] [Async Chat Thread - #0/INFO]: [0;37;22m[0;37;22mJulian213 [0;30;1m» [0;37;1m<3[m
+[17:32:59] [Server thread/INFO]: Julian213 issued server command: /pl
+[17:34:13] [Server thread/INFO]: ChrischiMc issued server command: /pex user Julian213 group set modf
+[17:34:14] [Server thread/INFO]: ChrischiMc issued server command: /pex user Julian213 group set mod
+[17:34:16] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[17:34:24] [Thread-64/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[17:34:24] [Server thread/INFO]: Julian213[/93.211.249.124:59597] logged in with entity id 104 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[17:35:07] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[17:35:50] [Server thread/INFO]: ChrischiMc issued server command: /3
+[17:35:51] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[17:37:49] [Server thread/INFO]: Julian213 issued server command: /warp minigames
+[17:37:52] [Server thread/INFO]: Julian213 issued server command: /3
+[17:37:53] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[17:53:59] [Thread-66/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[17:53:59] [Server thread/INFO]: ChrischiMc[/46.5.254.88:33308] logged in with entity id 105 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[17:54:20] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[17:55:19] [Thread-67/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[17:55:20] [Server thread/INFO]: ChrischiMc[/46.5.254.88:34561] logged in with entity id 107 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[17:56:04] [Server thread/INFO]: ChrischiMc issued server command: /3
+[17:56:41] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:00:01] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:00:07] [Thread-68/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:00:07] [Server thread/INFO]: Julian213[/93.211.249.124:41310] logged in with entity id 109 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:00:09] [Thread-69/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:00:09] [Server thread/INFO]: ChrischiMc[/46.5.254.88:35201] logged in with entity id 111 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:00:18] [Server thread/INFO]: Julian213 issued server command: /2
+[18:00:20] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:00:23] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:00:24] [Server thread/INFO]: ChrischiMc issued server command: /2
+[18:00:26] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:03:05] [Thread-70/INFO]: UUID of player ClientmodsEnkel is 763e905e-be9c-4fbd-bb2c-b79ffb06e84f
+[18:03:05] [Server thread/INFO]: ClientmodsEnkel[/87.182.45.41:44878] logged in with entity id 112 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:03:19] [Server thread/INFO]: ClientmodsEnkel issued server command: /2
+[18:03:20] [Server thread/INFO]: ClientmodsEnkel lost connection: Disconnected
+[18:05:41] [Thread-71/INFO]: UUID of player KetchupundPommes is 5b4ac311-c07e-4dc2-ab25-e76e355dc7fc
+[18:05:41] [Server thread/INFO]: KetchupundPommes[/79.194.26.57:47167] logged in with entity id 114 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:06:03] [Server thread/INFO]: KetchupundPommes issued server command: /friend add ChrischiMc
+[18:06:28] [Server thread/INFO]: KetchupundPommes issued server command: /2
+[18:06:29] [Server thread/INFO]: KetchupundPommes lost connection: Disconnected
+[18:09:43] [Thread-72/INFO]: UUID of player KetchupundPommes is 5b4ac311-c07e-4dc2-ab25-e76e355dc7fc
+[18:09:43] [Server thread/INFO]: KetchupundPommes[/79.194.26.57:57757] logged in with entity id 116 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:09:51] [Server thread/INFO]: KetchupundPommes issued server command: /2
+[18:09:52] [Server thread/INFO]: KetchupundPommes lost connection: Disconnected
+[18:16:57] [Thread-73/INFO]: UUID of player DamiyTV is 14d26d12-7e36-4c51-8de3-437054780f8a
+[18:16:57] [Server thread/INFO]: DamiyTV[/91.64.164.114:40389] logged in with entity id 118 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:17:02] [Server thread/INFO]: DamiyTV issued server command: /warp minigames
+[18:17:06] [Server thread/INFO]: DamiyTV issued server command: /2
+[18:17:11] [Server thread/INFO]: DamiyTV issued server command: /2
+[18:17:13] [Server thread/INFO]: DamiyTV lost connection: Disconnected
+[18:20:56] [Thread-74/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:20:56] [Server thread/INFO]: ChrischiMc[/46.5.254.88:42490] logged in with entity id 120 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:21:01] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:21:03] [Server thread/INFO]: ChrischiMc issued server command: /2
+[18:21:04] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:23:01] [Thread-75/INFO]: UUID of player KetchupundPommes is 5b4ac311-c07e-4dc2-ab25-e76e355dc7fc
+[18:23:01] [Thread-76/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:23:01] [Server thread/INFO]: KetchupundPommes[/79.194.26.57:45450] logged in with entity id 122 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:23:01] [Server thread/INFO]: Julian213[/93.211.249.124:51375] logged in with entity id 123 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:23:10] [Thread-77/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:23:10] [Server thread/INFO]: ChrischiMc[/46.5.254.88:36624] logged in with entity id 125 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:23:10] [Async Chat Thread - #1/INFO]: [0;37;22m[0;31;1mMod[m [0;30;1m⎥ [0;31;1m Julian213 [0;30;1m» [0;37;1mg[m
+[18:23:15] [Server thread/INFO]: Julian213 issued server command: /v
+[18:23:19] [Server thread/INFO]: Julian213 issued server command: /vansih
+[18:23:20] [Async Chat Thread - #1/INFO]: [0;37;22m[0;35;22mKetchupundPommes [0;30;1m» [0;37;1mkusch dich ;)[m
+[18:23:20] [Server thread/INFO]: ChrischiMc issued server command: /3
+[18:23:22] [Server thread/INFO]: Julian213 issued server command: /gamemode 1
+[18:23:23] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:23:31] [Thread-78/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:23:31] [Server thread/INFO]: ChrischiMc[/46.5.254.88:60096] logged in with entity id 126 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:23:35] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:23:36] [Server thread/INFO]: ChrischiMc issued server command: /1
+[18:23:37] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:23:39] [Server thread/INFO]: Julian213 issued server command: /1
+[18:23:40] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:23:43] [Server thread/INFO]: KetchupundPommes issued server command: /1
+[18:23:43] [Server thread/INFO]: KetchupundPommes issued server command: /1
+[18:23:44] [Server thread/INFO]: KetchupundPommes lost connection: Disconnected
+[18:24:46] [Thread-79/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:24:46] [Server thread/INFO]: Julian213[/93.211.249.124:41356] logged in with entity id 127 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:24:54] [Server thread/INFO]: Julian213 issued server command: /kill
+[18:24:57] [Server thread/INFO]: Julian213 issued server command: /help
+[18:25:00] [Server thread/INFO]: Julian213 issued server command: /1
+[18:25:16] [Server thread/INFO]: Julian213 issued server command: /1
+[18:25:17] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:26:55] [Thread-80/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:26:56] [Server thread/INFO]: ChrischiMc[/46.5.254.88:36606] logged in with entity id 129 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:26:59] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:27:01] [Server thread/INFO]: ChrischiMc issued server command: /2
+[18:27:03] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:31:31] [Thread-81/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:31:31] [Server thread/INFO]: ChrischiMc[/46.5.254.88:58308] logged in with entity id 131 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:31:34] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:31:36] [Server thread/INFO]: ChrischiMc issued server command: /1
+[18:31:38] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:34:53] [Thread-82/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:34:53] [Server thread/INFO]: ChrischiMc[/46.5.254.88:35427] logged in with entity id 133 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:35:05] [Thread-83/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:35:05] [Server thread/INFO]: Julian213[/93.211.249.124:58831] logged in with entity id 135 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:36:22] [Server thread/INFO]: Julian213 issued server command: /2
+[18:36:27] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:36:29] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:36:31] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:37:25] [Server thread/INFO]: Julian213 issued server command: /2
+[18:37:27] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:38:19] [Server thread/INFO]: ChrischiMc issued server command: /2
+[18:38:21] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:39:21] [Thread-84/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[18:39:21] [Server thread/INFO]: CoredBuilds[/46.5.254.88:53623] logged in with entity id 136 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:39:24] [Server thread/INFO]: CoredBuilds issued server command: /warp minigames
+[18:39:25] [Server thread/INFO]: CoredBuilds issued server command: /2
+[18:39:26] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[18:41:30] [Thread-85/INFO]: UUID of player TroffelZuDeBeule is a9c883ce-a09e-43e8-a746-eddb84eba36b
+[18:41:30] [Server thread/INFO]: TroffelZuDeBeule[/93.233.201.216:51765] logged in with entity id 138 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:41:34] [Server thread/INFO]: TroffelZuDeBeule issued server command: /warp minigames
+[18:41:35] [Server thread/INFO]: TroffelZuDeBeule issued server command: /warp minigames
+[18:41:35] [Server thread/INFO]: TroffelZuDeBeule issued server command: /warp minigames
+[18:41:36] [Server thread/INFO]: TroffelZuDeBeule issued server command: /2
+[18:41:37] [Server thread/INFO]: TroffelZuDeBeule issued server command: /2
+[18:41:37] [Server thread/INFO]: TroffelZuDeBeule lost connection: Disconnected
+[18:44:00] [Thread-86/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:44:00] [Server thread/INFO]: Julian213[/93.211.249.124:59824] logged in with entity id 140 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:44:14] [Server thread/INFO]: Julian213 issued server command: /2
+[18:44:27] [Server thread/INFO]: Julian213 issued server command: /msg
+[18:44:38] [Server thread/INFO]: Julian213 issued server command: /msg troffelzudebeule alter du homo
+[18:44:42] [Server thread/INFO]: Julian213 issued server command: /tell
+[18:44:56] [Server thread/INFO]: Julian213 issued server command: /tell troffelzudebeule dein ernst ?
+[18:44:56] [Server thread/INFO]: [Julian213: That player cannot be found]
+[18:45:01] [Server thread/INFO]: Julian213 issued server command: /1
+[18:45:02] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:47:58] [Thread-88/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:47:58] [Server thread/INFO]: Julian213[/93.211.249.124:54307] logged in with entity id 142 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:48:06] [Server thread/INFO]: Julian213 issued server command: /2
+[18:48:08] [Server thread/INFO]: Julian213 issued server command: /2
+[18:49:11] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:55:11] [Thread-89/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:55:11] [Server thread/INFO]: Julian213[/93.211.249.124:40582] logged in with entity id 144 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:55:19] [Server thread/INFO]: Julian213 issued server command: /2
+[18:55:27] [Server thread/INFO]: Julian213 issued server command: /ippardon Julian213
+[18:55:27] [Thread-90/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:55:27] [Server thread/INFO]: ChrischiMc[/46.5.254.88:47611] logged in with entity id 146 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:55:31] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[18:55:33] [Server thread/INFO]: ChrischiMc issued server command: /2
+[18:55:34] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:55:47] [Server thread/INFO]: Julian213 issued server command: /pardon Julian213
+[18:55:52] [Server thread/INFO]: Julian213 lost connection: Disconnected
+[18:57:07] [Thread-91/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:57:07] [Server thread/INFO]: ChrischiMc[/46.5.254.88:54249] logged in with entity id 147 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[18:57:13] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[21:49:18] [Thread-95/INFO]: UUID of player ClientmodsEnkel is 763e905e-be9c-4fbd-bb2c-b79ffb06e84f
+[21:49:18] [Server thread/INFO]: ClientmodsEnkel[/87.182.45.41:36993] logged in with entity id 149 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[21:49:22] [Thread-96/INFO]: UUID of player McXavier is c2fde7b6-5e64-418a-9e4d-1b5b3cf2eacd
+[21:49:23] [Server thread/INFO]: McXavier[/87.146.133.239:57810] logged in with entity id 151 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[21:49:23] [Server thread/INFO]: ClientmodsEnkel issued server command: /warp minigames
+[21:49:25] [Server thread/INFO]: ClientmodsEnkel issued server command: /warp minigames
+[21:49:27] [Server thread/INFO]: ClientmodsEnkel issued server command: /2
+[21:49:28] [Server thread/INFO]: ClientmodsEnkel lost connection: Disconnected
+[21:49:29] [Server thread/INFO]: McXavier issued server command: /2
+[21:49:30] [Server thread/INFO]: McXavier lost connection: Disconnected
+[21:49:36] [Thread-97/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[21:49:36] [Server thread/INFO]: ChrischiMc[/46.5.254.88:43568] logged in with entity id 152 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[21:49:55] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:49:58] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:41] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:42] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:43] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:44] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:52] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:50:59] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:51:01] [Server thread/INFO]: ChrischiMc issued server command: /2
+[21:51:02] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[21:53:24] [Thread-98/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[21:53:24] [Server thread/INFO]: ChrischiMc[/46.5.254.88:46971] logged in with entity id 154 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[21:53:28] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[21:53:30] [Server thread/INFO]: ChrischiMc issued server command: /1
+[21:53:31] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[23:42:50] [Thread-100/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[23:42:50] [Server thread/INFO]: ChrischiMc[/46.5.254.88:52211] logged in with entity id 156 at ([world]36.386816107765945, 7.0, 6.835457899559084)
+[23:42:55] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:43:11] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:43:26] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:43:26] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:43:34] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:43:43] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:44:39] [Server thread/INFO]: ChrischiMc issued server command: /warp minigames
+[23:44:53] [Server thread/INFO]: ChrischiMc issued server command: /3
+[23:44:54] [Server thread/INFO]: ChrischiMc lost connection: Disconnected

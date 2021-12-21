@@ -1,0 +1,141 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 7
+npc:
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODc5NTg4ODc5NjYsInByb2ZpbGVJZCI6ImI2ZmU4YmVhNDhmMzRkZWZiNjRjMjAyNjQ1NWU0MDU2IiwicHJvZmlsZU5hbWUiOiJDaHJpc2NoaU1jIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNWIxYmUxODIxMTM3NjJiMGY5ZTg0MzUxODI4Y2I5ZmMzNzJkNTk5ZThkZTgxNWNjZWM0NTM3Yjc3NjUifX19
+      cached-skin-uuid-name: chrischimc
+      cached-skin-uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+      player-skin-signature: DP2Rz1R3MdWC1CsAN3aF0eff4eIaZ8fQrwH6SG56yilhY0F6xUAAgBQueTG5b6aZOW86n9eJCEVFidfkJSMSy6w3wcX48DMLLtyZIggbinFTqBHiWOq73BMIrBn1qpUpAFD7G27Fj4YmQBYthYqSVMufe29lMjuJZTMze5aGJAH2CgeoAzt3rSJqy8LMoqryQ2SicuAu7HXFrelxV/KRwO3LTGOsGsA/7A84UzNWKVtUWg8hV3SRDOn/A9vJTFPRrIQhyZHgHpfZoubGFX4yxgrW+ZvJsDfhF3hRykZhgLHoaJxnaYvupgwz8uapWjFgjUCx0PkNf0Dy5fc7+JoCPOXvB7dGFf+xez6z1g6mRD0X9If4mf1h0bUVMaAO93uOktu25RWoWRZpPp3jKBh24BtWfDlV7Q6ZR0zTArG7GenYfI0knCZNR9KcxKGEfowhnT9aCv7Er4yZTB1fLMCEJUpDEH3LtMeuuaVld+veXIIp8VdqYX4uFdPU6tpjd4UoKmC5xCxI1AsCZi/gLlF79GEgmzD3chOnjeahs7Vr2MQfFwheBONGsST2ZnrWHumVU3LZvolB27mfpBl7mPUUgWaKEvHEzw/Enr8WyVn6IruRqGFbWJmKUwz6eRemz7IwX8tZi0aLMjAUCXOOrXJn/Qjrb1/ZsvOr3DZVn1Aq5Rk=
+    name: ChrischiMc
+    uuid: 9eb71187-ff39-4a2d-a51d-169e8b0021f7
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '144.64696017548437'
+        y: '70.5'
+        z: '344.5426177878812'
+        yaw: '-180.132080078125'
+        pitch: '26.716800689697266'
+      spawned: true
+      owner:
+        owner: ChrischiMc
+        uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+    traitnames: type,location,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODc5NTg4ODgyNTUsInByb2ZpbGVJZCI6IjI2MDEwZWU0M2M5NjQzODVhODg3MTZlYTQ2ODU4YjhlIiwicHJvZmlsZU5hbWUiOiJMdWtlX0xUIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGI5OGM4MjY4ZGY4NzFlZTE4ZTEyNjU0YmJhNGE3MTc5N2M5ODk5Mjk3MTU1NDI1YzA2NTk3ZGRmNzE1NiJ9fX0=
+      cached-skin-uuid-name: luke_lt
+      cached-skin-uuid: 26010ee4-3c96-4385-a887-16ea46858b8e
+      player-skin-signature: mj2a2Go9T30TK4+I4ksmBJuYrG65rN/ATGngzQQ4K0/R5Fo6Pw6LWhPlCW7DzT1BEj2amH9DoNFNK92GfBFpDeEiVbS4H18o6HBzDNDAbT96ngYFqNUKzalRi+GFAVbY8OSG0+z4NeJPHsG9ZdNKFSGdxXHHAAgPyIraa5kGZaN5Kk9jAyTpPwsaH3qbIFjxcEU5XtNmUlGL+72v6sxYsxsJvWEeziJzzdYNbAomnzrx2CcHsFef9rW6vnE67oBHu2ZvS4jsz4xLKCm7hEUpOJ1W83BNDpjZQNJLv91jlpt/QlFW0RAN4LppQm7tk3s1PRqAkMp6uz5AWbU1mAKhV2i8JChaASBckNrQIGXsIh6B6v2GvJlfWZtNlZ75BfxPmcL6Wb1DjXW0MkJElej84c3UmO3basGq4qopxz/uyejYL+qKQSjNwfdJKrU3v40Zj2WwG29iGJcbBcZmKgGLr58niJrHaaUwQogDkmkxPofG5KxGcM02Y3YbVt2NgJxY3LT/6nhDHNKSkPTWVEVzuxOmExRvpP4Kp+NlS6qHfWdDZLCCt1+qWnCCQBZzrHyPATkyPcocG9856oAy0gR6/DT4+v2w+Wg9ocQVx6TMiWGyg+sKHBYL6X5c90c7kcA6jKNkOWla8hdAh5ZBZtqPXYXwrD5QoIUVybGSmrUaI3A=
+    name: Luke_lt
+    uuid: 07d0ff3c-6afc-46a1-89ec-65e95a85e85e
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '147.67793339175176'
+        y: '70.5'
+        z: '344.53606318430457'
+        yaw: '-181.975341796875'
+        pitch: '18.115198135375977'
+      spawned: true
+      owner:
+        owner: ChrischiMc
+        uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+    traitnames: type,owner,location,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODc5NTg4ODg5MjUsInByb2ZpbGVJZCI6IjFjNjlkMzYyY2VkODQzMmNiYzEzM2RhZTYxMjY5NGUwIiwicHJvZmlsZU5hbWUiOiJDb3JlZEJ1aWxkcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRiN2ZiNWExM2YwNmVkYjA3OGVkYmJhNTUxZWJmOGRmNTMzYTg2ZWE0Yjk4MmE0NzEyNWVmMmY1MjRlIn19fQ==
+      cached-skin-uuid-name: coredbuilds
+      cached-skin-uuid: 1c69d362-ced8-432c-bc13-3dae612694e0
+      player-skin-signature: bLJSCKw6sKgwowGC2tpSwbz+CWreRTVx4qhqGJJ7HZF9p7A65LdSRP8wFmRg/xXX6uMSyj8c5Aw/kWLD4ouN4nAqLLHfXBr2CAXbLc4KJQIhcN4YXXsD4ghkqiXLwb1kXy8xO3oYEaBsOD07/jXZV+FTJIxID/wLepHJO6NVPHJ2FQr948HmIOaWw6Vso20164PmadZ2B2I/gscTCYnaQlvk6a9e68fI3zMcyxy1KkaaPk1GWKhk6eBtC0qHadCjgiJFGy0twi74mGI8GNt0WZPM4LhRIC+suDKFT/o0Xlv5FsUibFlK29wbmK4A9HqmEb/azqtD8gSFFNGctV1w39u6r7B8EuZyWm/wispvma7xA8RwHEPLmLIqlc5uFsCkhEX6rPtodOgU780gAwDWYNlBaN1fZX/UHWnF/5ttxyLQMQEx6rcrQ0msPCR26kYrDgV9vPL+0VQAwY/Ff7B0kxB3Fy5lwOC4hR/FbJlmdet41swDrpqf5tf5LOAmja8luOx/x5I+fxRH+3RMul/UUvBYTL4IUZH3ertPRlXxRta0XYvOK4O5VHHAbAUE6c493YPXSCdrDASEUqUKZ3ARMdENkCBYi9MGYA9vwdK/gI2D/fx63KcLRLiHHSbbb1Bs8bepoBkg79zmjJL7036z0L/p5eXZ5VIG0eMWQe/f6Kw=
+    name: CoredBuilds
+    uuid: 54949414-9e5d-45ba-b852-08feb8e477bb
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '150.64939384563488'
+        y: '70.5'
+        z: '344.6572180756815'
+        yaw: '-183.16754150390625'
+        pitch: '8.899179458618164'
+      spawned: true
+      owner:
+        owner: ChrischiMc
+        uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+    traitnames: type,location,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODU1NDQ3NDE0MDMsInByb2ZpbGVJZCI6IjMzMTRhZDVjMDgzZTQzMGNiYWRkNTgxNTJlNDE4ZjEzIiwicHJvZmlsZU5hbWUiOiJTaG9wIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWNjOTFkMTQ0OWE1YWRjYWE3OWJkZjkzZmNlYmM1NmRlNGRiNDU3YTdhN2M3NGJlOGNjNzQ2ZDIxYThhMyJ9fX0=
+      cached-skin-uuid-name: shop
+      cached-skin-uuid: 3314ad5c-083e-430c-badd-58152e418f13
+      player-skin-signature: wR7laYJekvejGCJ9aaquPX8RvcFeIAmvVcHEn30C+XJR53irczrHUrZXUfZmEsA5dBD0wm/naxbTLPAR1oNXJofA1LIo2BfvYKCJZTUN127emcc468eaKHx0N5mDIGIjzNNOr657OKA6Rmd1akCbZM+kCVSQhqTNRJimAtVWyWyj1SoPxrEx1K6ySkGc5sG55rOuuMTghDnrfDDIJeMr5EL5WXTBUcuVvZbev1UcScaDVIA+hOwiEMLcLobwZWQx0o1uyXVUdQmO7vW607XFWHNBaz87HjLtIVwmMEHg32uZHPXIhy29ADfACwVYcGyH1Tt2Zp5LUu0dA57ZrgfHJ3wOlJdgjnbwjbrSk3IkzCT84CHjiqc8PgjCA358h6k8WDUKrT/zHv5/TVmiX+1+XRSuicej6nVDxStIgANvwn/cC10tabdsfu6kXCL05VvOSCMYptezQkTIbFiF5wT/a01KQLAthhwMLc9zzQoukl0PwZaqcK98Hr5spIjfnUL1gdU5lJS1+0sd9R9qYp7veBUduFTK7RqXNxN3QOLeVGHTcad5S2cBvHNDzfcLrLPPTqXQLJir1c39DgY4xzO0nuKXh1bnYYsPBLYiglBubAcxUZ7p3UJJmJpsS1l7XdX3g3swQBRQUo728SbLdChmoKh11tBxwzr/G8iZsa73HbQ=
+    name: §eShop
+    uuid: 3871d0a6-c141-41b2-966e-04c2e66090dc
+    traits:
+      type: Villager
+      spawned: true
+      inventory: {}
+      location:
+        world: world
+        x: '107.09324076905474'
+        y: '73.0'
+        z: '333.98614906000745'
+        yaw: '-92.49896240234375'
+        pitch: '0.0'
+      owner:
+        owner: ChrischiMc
+        uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+    traitnames: type,owner,location,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    name: §7
+    uuid: 74993292-0bea-4a0d-acb8-f76678f6dd53
+    traits:
+      location:
+        world: world
+        x: '107.9467662374713'
+        y: '73.0'
+        z: '328.0080799660255'
+        yaw: '-81.76873779296875'
+        pitch: '0.0'
+      inventory: {}
+      spawned: true
+      type: Witch
+      owner:
+        owner: ChrischiMc
+        uuid: b6fe8bea-48f3-4def-b64c-2026455e4056
+    traitnames: type,location,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

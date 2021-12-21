@@ -1,0 +1,24 @@
+####MYSQL####
+Hostname: "vweb18.nitrado.net"
+Datenbank: "ni946864_1sql2"
+Port: "3306"
+User: "ni946864_1sql2"
+Passwort: "lol"
+####PERMISSONS####
+# Delete Reports: report.delete
+# Goto: report.goto
+# List all Reports: report.list
+# Staff Message: report.staff
+# Report Details: report.details
+####SETTINGS####
+Prefix: "&4&lREPORT&8 \xbb "
+English: false
+####LANGUAGE####
+# Please use '&'+Colorcode for Colors.
+Report_Message_confirmed: "&aDein Report für %reported% wurde abgeschickt."
+Report_Message_tostaff: "&cNeuer Report von %reporter% für %reported%! &8[&9%reason%&8]"
+Report_Message_deletereport: "&aReport wurde gelöscht."
+Report_Message_goto: "&aDu hast dich zu %reported% teleportiert!"
+Report_Message_NoPermission: "&cKeine Rechte!"
+Report_Message_Syntax: "&cBitte nutze %rightsyntax%!"
+Report_Message_ListReport: "&e%reported% wurde wegen %reasons% reported!"

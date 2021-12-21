@@ -1,0 +1,59 @@
+ip_forward: true
+network_compression_threshold: 256
+stats: bdfe3c6b-8703-492d-9e35-193cc27822fe
+permissions:
+  default:
+  - null
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - report.staff
+  - report.delete
+  - report.goto
+  - report.details
+  - report.list
+  - System.Team
+groups:
+  ChrischiMc:
+  - admin
+servers:
+  lobby:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25564
+    restricted: false
+  su:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25568
+    restricted: false
+  kock:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25566
+    restricted: false
+  gun:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25567
+    restricted: false
+timeout: 30000
+listeners:
+- query_port: 25565
+  motd: '&1Another Bungee server'
+  priorities:
+  - lobby
+  bind_local_address: true
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  host: 0.0.0.0:25565
+  forced_hosts:
+    pvp.md-5.net: pvp
+  max_players: 40
+  tab_size: 60
+  ping_passthrough: false
+  force_default_server: true
+player_limit: -1
+online_mode: true
+log_commands: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000

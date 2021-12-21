@@ -1,0 +1,22 @@
+Messages:
+  Spectate:
+    General: '&e&lSPECTATE &8» &7Du &cSpectatest &7nun!'
+    Other: '&e&lSPECTATE &8» &7Du beobachtest nun &c<player>!'
+    GiveOther: '&e&lSPECTATE &8» <player> into spectator mode!'
+    'Off': '&e&lSPECTATE &8» &7Du bist aus dem &cSpec &7mode!'
+    CycleStart: '&bSpectating cycle started with interval <interval>!'
+    CycleStop: '&eSpectating cycle stopped!'
+    CycleRunning: '&cYou are already in a spectating cycle!'
+    CycleInactive: '&cYou are not in a spectating cycle!'
+    CycleNoDismount: '&cPlayer dismount blocked, you are currently cycling! Use &7/speccycle
+      stop &cto stop!'
+    Self: '&cNicht möglich!'
+    NoChange: '&cNicht möglich!'
+    NoSpectate: '&c<player> kann nich beobachtet werden.!'
+  Player:
+    NotPlayer: '&cYou must be a player to run this command!'
+    Offline: '&c<player> nicht Online!'
+    GameModeBlocked: '&cGamemode change blocked, you are currently spectating. Use
+      &7/spec &cto leave spectator mode!'
+  Plugin:
+    Reload: '&bReloaded Spectator configs successfully!'

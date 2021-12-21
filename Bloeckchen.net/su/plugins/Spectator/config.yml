@@ -1,0 +1,5 @@
+Spectator:
+  MirrorInventory: true
+  HideFromTab: false
+  CycleOnPlayerDeath: false
+  RememberSurvivalPosition: true

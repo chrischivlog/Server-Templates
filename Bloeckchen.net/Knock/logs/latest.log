@@ -1,0 +1,561 @@
+[18:23:39] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:23:39] [Server thread/INFO]: Loading properties
+[18:23:39] [Server thread/INFO]: Default game type: ADVENTURE
+[18:23:41] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-d3e0b6f (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:23:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:23:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:23:45] [Server thread/INFO]: Debug logging is disabled
+[18:23:45] [Server thread/INFO]: Generating keypair
+[18:23:47] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25566
+[18:23:48] [Server thread/INFO]: Using epoll channel type
+[18:23:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:23:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[18:23:49] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[18:23:49] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[18:23:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[18:23:49] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[18:23:49] [Server thread/INFO]: [NoDeathScreen] Loading NoDeathScreen v1.0
+[18:23:49] [Server thread/INFO]: [KnockIt] Loading KnockIt v1.0
+[18:23:49] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[18:23:52] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[18:23:52] [Server thread/INFO]: [Spectator] Loading Spectator v1.3.4
+[18:23:52] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[18:23:52] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:23:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:23:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:23:52] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[18:23:52] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[18:23:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:23:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:23:53] [Server thread/INFO]: Preparing level "world"
+[18:23:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:23:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:23:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:23:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:23:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:23:53] [Server thread/INFO]: Mob Spawn Range: 4
+[18:23:53] [Server thread/INFO]: Anti X-Ray: true
+[18:23:53] [Server thread/INFO]: 	Engine Mode: 1
+[18:23:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:23:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:23:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:23:53] [Server thread/INFO]: Random Lighting Updates: false
+[18:23:53] [Server thread/INFO]: Structure Info Saving: true
+[18:23:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:23:53] [Server thread/INFO]: Max Entity Collisions: 8
+[18:23:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:23:53] [Server thread/INFO]: Max TNT Explosions: 100
+[18:23:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:23:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:23:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:23:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:23:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:23:53] [Server thread/INFO]: View Distance: 10
+[18:23:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:23:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:23:53] [Server thread/INFO]: Clear tick list: false
+[18:23:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:23:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:23:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:23:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:23:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:23:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:23:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:23:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:23:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:23:55] [Server thread/INFO]: Mob Spawn Range: 4
+[18:23:55] [Server thread/INFO]: Anti X-Ray: true
+[18:23:55] [Server thread/INFO]: 	Engine Mode: 1
+[18:23:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:23:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:23:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:23:55] [Server thread/INFO]: Random Lighting Updates: false
+[18:23:55] [Server thread/INFO]: Structure Info Saving: true
+[18:23:55] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:23:55] [Server thread/INFO]: Max Entity Collisions: 8
+[18:23:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:23:55] [Server thread/INFO]: Max TNT Explosions: 100
+[18:23:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:23:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:23:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:23:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:23:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:23:55] [Server thread/INFO]: View Distance: 10
+[18:23:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:23:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:23:55] [Server thread/INFO]: Clear tick list: false
+[18:23:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:23:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:23:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:23:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:23:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:23:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:23:55] [Server thread/INFO]: Mob Spawn Range: 4
+[18:23:55] [Server thread/INFO]: Anti X-Ray: true
+[18:23:55] [Server thread/INFO]: 	Engine Mode: 1
+[18:23:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:23:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:23:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:23:55] [Server thread/INFO]: Random Lighting Updates: false
+[18:23:55] [Server thread/INFO]: Structure Info Saving: true
+[18:23:55] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:23:55] [Server thread/INFO]: Max Entity Collisions: 8
+[18:23:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:23:55] [Server thread/INFO]: Max TNT Explosions: 100
+[18:23:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:23:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:23:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:23:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:23:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:23:55] [Server thread/INFO]: View Distance: 10
+[18:23:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:23:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:23:55] [Server thread/INFO]: Clear tick list: false
+[18:23:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:23:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5941612010757044687)
+[18:23:56] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:57] [Server thread/INFO]: Preparing spawn area: 41%
+[18:23:58] [Server thread/INFO]: Preparing spawn area: 52%
+[18:23:59] [Server thread/INFO]: Preparing spawn area: 67%
+[18:24:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5941612010757044687)
+[18:24:01] [Server thread/INFO]: Preparing spawn area: 2%
+[18:24:02] [Server thread/INFO]: Preparing spawn area: 7%
+[18:24:03] [Server thread/INFO]: Preparing spawn area: 13%
+[18:24:04] [Server thread/INFO]: Preparing spawn area: 20%
+[18:24:05] [Server thread/INFO]: Preparing spawn area: 32%
+[18:24:06] [Server thread/INFO]: Preparing spawn area: 55%
+[18:24:07] [Server thread/INFO]: Preparing spawn area: 74%
+[18:24:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5941612010757044687)
+[18:24:09] [Server thread/INFO]: Preparing spawn area: 16%
+[18:24:10] [Server thread/INFO]: Preparing spawn area: 58%
+[18:24:11] [Server thread/INFO]: Preparing spawn area: 73%
+[18:24:11] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[18:24:11] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[18:24:12] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[18:24:13] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[18:24:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[18:24:19] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:24:19] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:24:19] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[18:24:19] [Server thread/INFO]: [NoDeathScreen] Enabling NoDeathScreen v1.0
+[18:24:19] [Server thread/INFO]: [0;32;1mNoDeathScreen version [0;36;1m1.0 [0;32;1menabled[m
+[18:24:19] [Server thread/INFO]: [KnockIt] Enabling KnockIt v1.0
+[18:24:19] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[18:24:20] [Server thread/INFO]: [0;32;1mMySQL MySQL connected[m
+[18:24:20] [Server thread/INFO]: [0;31;22mMySQL MySQL Table created[m
+[18:24:20] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[18:24:20] [Server thread/INFO]: [Spectator] Enabling Spectator v1.3.4
+[18:24:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:24:21] [Server thread/INFO]: Done (28,417s)! For help, type "help" or "?"
+[18:24:23] [Thread-10/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
+[18:27:02] [Thread-11/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:27:03] [Server thread/INFO]: ChrischiMc[/46.5.254.88:48464] logged in with entity id 0 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:31:31] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:37:26] [Thread-12/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:37:27] [Server thread/INFO]: Julian213[/93.211.249.124:33731] logged in with entity id 1 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:38:21] [Thread-13/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:38:21] [Server thread/INFO]: ChrischiMc[/46.5.254.88:35640] logged in with entity id 2 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:38:27] [Server thread/INFO]: ChrischiMc issued server command: /rl
+[18:38:27] [Server thread/INFO]: ChrischiMc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[18:38:27] [Server thread/INFO]: ChrischiMc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[18:38:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:38:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:38:27] [Server thread/INFO]: Debug logging is disabled
+[18:38:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:38:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:38:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:38:27] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:27] [Server thread/INFO]: Anti X-Ray: true
+[18:38:27] [Server thread/INFO]: 	Engine Mode: 1
+[18:38:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:38:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:38:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:27] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:27] [Server thread/INFO]: Structure Info Saving: true
+[18:38:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:38:27] [Server thread/INFO]: Max Entity Collisions: 8
+[18:38:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:38:27] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:27] [Server thread/INFO]: View Distance: 10
+[18:38:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:38:27] [Server thread/INFO]: Clear tick list: false
+[18:38:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:38:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:38:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:38:28] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:28] [Server thread/INFO]: Anti X-Ray: true
+[18:38:28] [Server thread/INFO]: 	Engine Mode: 1
+[18:38:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:38:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:38:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:28] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:28] [Server thread/INFO]: Structure Info Saving: true
+[18:38:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:38:28] [Server thread/INFO]: Max Entity Collisions: 8
+[18:38:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:38:28] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:28] [Server thread/INFO]: View Distance: 10
+[18:38:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:38:28] [Server thread/INFO]: Clear tick list: false
+[18:38:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:38:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:38:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:38:28] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:28] [Server thread/INFO]: Anti X-Ray: true
+[18:38:28] [Server thread/INFO]: 	Engine Mode: 1
+[18:38:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:38:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:38:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:28] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:28] [Server thread/INFO]: Structure Info Saving: true
+[18:38:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:38:28] [Server thread/INFO]: Max Entity Collisions: 8
+[18:38:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:38:28] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:28] [Server thread/INFO]: View Distance: 10
+[18:38:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:38:28] [Server thread/INFO]: Clear tick list: false
+[18:38:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:28] [Server thread/INFO]: [Spectator] Disabling Spectator v1.3.4
+[18:38:28] [Server thread/INFO]: [RankPrefixPlus] Disabling RankPrefixPlus v1.7.2
+[18:38:28] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.1.0
+[18:38:28] [Server thread/INFO]: [KnockIt] Disabling KnockIt v1.0
+[18:38:28] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[18:38:28] [Server thread/INFO]: [0;32;1mMySQL MySQL disconnected[m
+[18:38:28] [Server thread/INFO]: [NoDeathScreen] Disabling NoDeathScreen v1.0
+[18:38:28] [Server thread/INFO]: [0;31;1mNoDeathScreen version [0;36;1m1.0 [0;31;1menabled[m
+[18:38:28] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.12
+[18:38:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[18:38:28] [Server thread/INFO]: [NoWeather] Disabling NoWeather v2.0
+[18:38:28] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[18:38:28] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[18:38:28] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[18:38:28] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[18:38:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[18:38:28] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[18:38:28] [Server thread/INFO]: [KnockIt] Loading KnockIt v1.0
+[18:38:28] [Server thread/INFO]: [MiRespawn] Loading MiRespawn v1.3.2
+[18:38:28] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[18:38:29] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[18:38:29] [Server thread/INFO]: [Spectator] Loading Spectator v1.3.4
+[18:38:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[18:38:29] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:38:29] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[18:38:29] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[18:38:29] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[18:38:30] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[18:38:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[18:38:32] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:38:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:38:32] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[18:38:32] [Server thread/INFO]: [KnockIt] Enabling KnockIt v1.0
+[18:38:32] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[18:38:32] [Server thread/INFO]: [0;32;1mMySQL MySQL connected[m
+[18:38:32] [Server thread/INFO]: [0;31;22mMySQL MySQL Table created[m
+[18:38:32] [Server thread/INFO]: [MiRespawn] Enabling MiRespawn v1.3.2
+[18:38:32] [Server thread/INFO]: [MiRespawn] Load success
+[18:38:32] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[18:38:32] [Server thread/INFO]: [Spectator] Enabling Spectator v1.3.4
+[18:38:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:38:33] [Server thread/INFO]: ChrischiMc: [0;32;1mReload complete.[m
+[18:38:35] [Thread-16/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
+[18:39:26] [Thread-17/INFO]: UUID of player CoredBuilds is 1c69d362-ced8-432c-bc13-3dae612694e0
+[18:39:26] [Server thread/INFO]: CoredBuilds[/46.5.254.88:42565] logged in with entity id 3 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:41:07] [Server thread/WARN]: ChrischiMc moved too quickly! 10.109572303440018,14.0,5.404196805680726 (10.109572303440018, 14.0, 5.404196805680726)
+[18:41:37] [Thread-18/INFO]: UUID of player TroffelZuDeBeule is a9c883ce-a09e-43e8-a746-eddb84eba36b
+[18:41:37] [Server thread/INFO]: TroffelZuDeBeule[/93.233.201.216:34515] logged in with entity id 4 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:41:48] [Server thread/INFO]: TroffelZuDeBeule issued server command: /ping
+[18:42:09] [Async Chat Thread - #0/INFO]: [0;37;22m[0;37;22mTroffelZuDeBeule [0;30;1m» [0;37;1mArlarm#+[m
+[18:42:10] [Server thread/INFO]: ChrischiMc issued server command: /pex user TroffelZuDeBeule group set yt
+[18:42:20] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;1mMod[m [0;30;1m⎥ [0;31;1m Julian213 [0;30;1m» [0;37;1m._.[m
+[18:42:22] [Async Chat Thread - #0/INFO]: [0;37;22m[0;35;22mTroffelZuDeBeule [0;30;1m» [0;37;1ma[m
+[18:42:31] [Async Chat Thread - #0/INFO]: [0;37;22m[0;35;22mTroffelZuDeBeule [0;30;1m» [0;37;1mOch Nö[m
+[18:42:43] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;1mMod[m [0;30;1m⎥ [0;31;1m Julian213 [0;30;1m» [0;37;1mwas ? :D[m
+[18:42:46] [Server thread/INFO]: ChrischiMc issued server command: /pex user TroffelZuDeBeule group set admin
+[18:42:59] [Async Chat Thread - #0/INFO]: [0;37;22m[0;36;1mDev[m [0;30;1m⎥ [0;36;1m ChrischiMc [0;30;1m» [0;37;1myannik ?[m
+[18:43:00] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1mich hasse dich[m
+[18:43:12] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1m./ban Julian213[m
+[18:43:12] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;1mMod[m [0;30;1m⎥ [0;31;1m Julian213 [0;30;1m» [0;37;1m:)[m
+[18:43:17] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1mGEHT NICHT[m
+[18:43:18] [Server thread/INFO]: ChrischiMc issued server command: /pex user ChrischiMc group set admin
+[18:43:21] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m ChrischiMc [0;30;1m» [0;37;1mgg[m
+[18:43:35] [Server thread/INFO]: TroffelZuDeBeule issued server command: /help
+[18:43:50] [Server thread/INFO]: TroffelZuDeBeule issued server command: /ban-ip Julian213
+[18:43:50] [Server thread/INFO]: Julian213 lost connection: You have been IP banned.
+[18:43:51] [Server thread/INFO]: [TroffelZuDeBeule: Banned IP address 93.211.249.124 belonging to Julian213]
+[18:43:51] [Server thread/WARN]: handleDisconnection() called twice
+[18:43:55] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1mHhahaha[m
+[18:44:08] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1mUps[m
+[18:44:15] [Thread-19/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:44:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@689aa7c0[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@6fdf6156]},legacy=false] (/93.211.249.124:40830): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:44:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@689aa7c0[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@6fdf6156]},legacy=false] (/93.211.249.124:40830) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:44:20] [Server thread/INFO]: ChrischiMc issued server command: /pardon
+[18:44:25] [Server thread/INFO]: ChrischiMc issued server command: /ban-ip
+[18:44:40] [Server thread/INFO]: TroffelZuDeBeule issued server command: /
+[18:44:40] [Server thread/INFO]: ChrischiMc issued server command: /pardon julian213
+[18:44:40] [Server thread/INFO]: [ChrischiMc: Could not unban player julian213]
+[18:44:41] [Server thread/INFO]: TroffelZuDeBeule issued server command: /
+[18:44:44] [Async Chat Thread - #0/INFO]: [0;37;22m[0;31;22mOwner[m [0;30;1m⎥ [0;31;22m TroffelZuDeBeule [0;30;1m» [0;37;1ma[m
+[18:44:47] [Server thread/INFO]: ChrischiMc issued server command: /ip-pardon julian213
+[18:44:55] [Server thread/INFO]: ChrischiMc issued server command: /pardonip julian213
+[18:44:58] [Server thread/INFO]: ChrischiMc issued server command: /pardon
+[18:45:13] [Server thread/INFO]: ChrischiMc issued server command: /pex user ChrischiMc group set default
+[18:45:20] [Server thread/INFO]: TroffelZuDeBeule issued server command: /
+[18:45:21] [Server thread/INFO]: TroffelZuDeBeule issued server command: /
+[18:45:27] [Server thread/INFO]: TroffelZuDeBeule lost connection: Disconnected
+[18:48:07] [Thread-20/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:48:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@481b7d3a[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@5a9094f7]},legacy=false] (/93.211.249.124:46101): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:48:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@481b7d3a[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@5a9094f7]},legacy=false] (/93.211.249.124:46101) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:48:09] [Thread-21/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:48:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ad70f51[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@43ca1010]},legacy=false] (/93.211.249.124:41424): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:48:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ad70f51[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@43ca1010]},legacy=false] (/93.211.249.124:41424) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:48:19] [Server thread/INFO]: ChrischiMc issued server command: /rl
+[18:48:19] [Server thread/INFO]: ChrischiMc: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[18:48:19] [Server thread/INFO]: ChrischiMc: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[18:48:19] [Server thread/INFO]: Unable to find file banned-ips.json, creating it.
+[18:48:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:48:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:48:19] [Server thread/INFO]: Debug logging is disabled
+[18:48:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:48:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:48:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:48:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:48:19] [Server thread/INFO]: Mob Spawn Range: 4
+[18:48:19] [Server thread/INFO]: Anti X-Ray: true
+[18:48:19] [Server thread/INFO]: 	Engine Mode: 1
+[18:48:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:48:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:48:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:48:19] [Server thread/INFO]: Random Lighting Updates: false
+[18:48:19] [Server thread/INFO]: Structure Info Saving: true
+[18:48:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:48:19] [Server thread/INFO]: Max Entity Collisions: 8
+[18:48:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:48:19] [Server thread/INFO]: Max TNT Explosions: 100
+[18:48:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:48:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:48:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:48:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:48:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:48:19] [Server thread/INFO]: View Distance: 10
+[18:48:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:48:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:48:19] [Server thread/INFO]: Clear tick list: false
+[18:48:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:48:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:48:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:48:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:48:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:48:19] [Server thread/INFO]: Mob Spawn Range: 4
+[18:48:19] [Server thread/INFO]: Anti X-Ray: true
+[18:48:19] [Server thread/INFO]: 	Engine Mode: 1
+[18:48:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:48:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:48:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:48:19] [Server thread/INFO]: Random Lighting Updates: false
+[18:48:19] [Server thread/INFO]: Structure Info Saving: true
+[18:48:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:48:19] [Server thread/INFO]: Max Entity Collisions: 8
+[18:48:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:48:19] [Server thread/INFO]: Max TNT Explosions: 100
+[18:48:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:48:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:48:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:48:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:48:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:48:19] [Server thread/INFO]: View Distance: 10
+[18:48:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:48:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:48:19] [Server thread/INFO]: Clear tick list: false
+[18:48:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:48:19] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:48:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:48:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:48:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:48:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:48:19] [Server thread/INFO]: Mob Spawn Range: 4
+[18:48:19] [Server thread/INFO]: Anti X-Ray: true
+[18:48:19] [Server thread/INFO]: 	Engine Mode: 1
+[18:48:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:48:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:48:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:48:19] [Server thread/INFO]: Random Lighting Updates: false
+[18:48:19] [Server thread/INFO]: Structure Info Saving: true
+[18:48:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:48:19] [Server thread/INFO]: Max Entity Collisions: 8
+[18:48:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:48:19] [Server thread/INFO]: Max TNT Explosions: 100
+[18:48:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:48:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:48:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:48:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:48:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:48:19] [Server thread/INFO]: View Distance: 10
+[18:48:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:48:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:48:19] [Server thread/INFO]: Clear tick list: false
+[18:48:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:48:19] [Server thread/INFO]: [Spectator] Disabling Spectator v1.3.4
+[18:48:19] [Server thread/INFO]: [RankPrefixPlus] Disabling RankPrefixPlus v1.7.2
+[18:48:19] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.1.0
+[18:48:20] [Server thread/INFO]: [MiRespawn] Disabling MiRespawn v1.3.2
+[18:48:20] [Server thread/INFO]: [MiRespawn] [MiRespawn] 1.3.2 has been disabled!
+[18:48:20] [Server thread/INFO]: [KnockIt] Disabling KnockIt v1.0
+[18:48:20] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[18:48:20] [Server thread/INFO]: [0;32;1mMySQL MySQL disconnected[m
+[18:48:20] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.12
+[18:48:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[18:48:20] [Server thread/INFO]: [NoWeather] Disabling NoWeather v2.0
+[18:48:20] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[18:48:20] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[18:48:20] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[18:48:20] [Server thread/INFO]: [NoWeather] Loading NoWeather v2.0
+[18:48:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[18:48:20] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.12
+[18:48:20] [Server thread/INFO]: [KnockIt] Loading KnockIt v1.0
+[18:48:20] [Server thread/INFO]: [MiRespawn] Loading MiRespawn v1.3.2
+[18:48:20] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[18:48:21] [Server thread/INFO]: [RankPrefixPlus] Loading RankPrefixPlus v1.7.2
+[18:48:21] [Server thread/INFO]: [Spectator] Loading Spectator v1.3.4
+[18:48:21] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[18:48:21] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:48:21] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[18:48:21] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[18:48:21] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[18:48:22] [Server thread/INFO]: [NoWeather] Enabling NoWeather v2.0
+[18:48:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[18:48:23] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:48:24] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:48:24] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.12
+[18:48:24] [Server thread/INFO]: [KnockIt] Enabling KnockIt v1.0
+[18:48:24] [Server thread/INFO]: [KNOCKIT] Knockit wurde gestartet!
+[18:48:24] [Server thread/INFO]: [0;32;1mMySQL MySQL connected[m
+[18:48:24] [Server thread/INFO]: [0;31;22mMySQL MySQL Table created[m
+[18:48:24] [Server thread/INFO]: [MiRespawn] Enabling MiRespawn v1.3.2
+[18:48:24] [Server thread/INFO]: [MiRespawn] Load success
+[18:48:24] [Server thread/INFO]: [RankPrefixPlus] Enabling RankPrefixPlus v1.7.2
+[18:48:24] [Server thread/INFO]: [Spectator] Enabling Spectator v1.3.4
+[18:48:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:48:24] [Server thread/INFO]: ChrischiMc: [0;32;1mReload complete.[m
+[18:48:26] [Thread-24/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
+[18:48:38] [Thread-25/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:48:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@598cdc71[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@5d9cc0e8]},legacy=false] (/93.211.249.124:47660): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:48:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@598cdc71[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@5d9cc0e8]},legacy=false] (/93.211.249.124:47660) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:49:11] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[18:49:12] [Server thread/INFO]: CoredBuilds lost connection: Disconnected
+[18:55:19] [Thread-26/INFO]: UUID of player Julian213 is 42d7651b-6c2e-493b-a243-cfdd2c9f8002
+[18:55:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@615bd6d0[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@4f1d6abf]},legacy=false] (/93.211.249.124:52757): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:55:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@615bd6d0[id=42d7651b-6c2e-493b-a243-cfdd2c9f8002,name=Julian213,properties={textures=[com.mojang.authlib.properties.Property@4f1d6abf]},legacy=false] (/93.211.249.124:52757) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[18:55:34] [Thread-27/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[18:55:34] [Server thread/INFO]: ChrischiMc[/46.5.254.88:45184] logged in with entity id 11 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[18:57:07] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[21:49:28] [Thread-28/INFO]: UUID of player ClientmodsEnkel is 763e905e-be9c-4fbd-bb2c-b79ffb06e84f
+[21:49:28] [Server thread/INFO]: ClientmodsEnkel[/87.182.45.41:41684] logged in with entity id 12 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[21:49:29] [Thread-29/INFO]: UUID of player McXavier is c2fde7b6-5e64-418a-9e4d-1b5b3cf2eacd
+[21:49:30] [Server thread/INFO]: McXavier[/87.146.133.239:50208] logged in with entity id 13 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[21:50:05] [Server thread/WARN]: McXavier moved too quickly! 7.737411860173552,13.519289123668306,-4.974958928007709 (7.737411860173552, 13.519289123668306, -4.974958928007709)
+[21:50:33] [Server thread/INFO]: McXavier lost connection: Disconnected
+[21:51:02] [Thread-30/INFO]: UUID of player ChrischiMc is b6fe8bea-48f3-4def-b64c-2026455e4056
+[21:51:02] [Server thread/INFO]: ChrischiMc[/46.5.254.88:46307] logged in with entity id 14 at ([world]-1027.4483585388887, 27.0, -843.6394666513968)
+[21:51:43] [Server thread/INFO]: [0;36;1mKnockIt [0;30;1m» [0;33;1mClientmodsEnkel [0;32;1mhat eine [0;33;1m5er [0;32;1mKillstreak![m
+[21:53:11] [Server thread/INFO]: [0;36;1mKnockIt [0;30;1m» [0;33;1mClientmodsEnkel [0;32;1mhat eine [0;33;1m5er [0;32;1mKillstreak![m
+[21:53:24] [Server thread/INFO]: ChrischiMc lost connection: Disconnected
+[21:53:49] [Server thread/INFO]: ClientmodsEnkel lost connection: Disconnected

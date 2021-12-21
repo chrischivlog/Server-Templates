@@ -1,0 +1,51 @@
+messages:
+- ''
+- '               &7»&cStats&7«               '
+- ''
+- '&7Spieler: &c%sender'
+- '&7Kills: &c%kills'
+- '&7Tode: &c%deaths'
+- '&7KDR: &c%kdr'
+- ''
+- '               &7»&cStats&7«               '
+- ''
+customdeathmessage: false
+deathmessage: '&b%killed &awas slain by &b%killer'
+otherplayer:
+- ''
+- '               &7»&cStats&7«               '
+- ''
+- '&7Spieler: &c%target'
+- '&7Kills: &c%kills'
+- '&7Tode: &c%deaths'
+- '&7KDR: &c%kdr'
+- ''
+- '               &7»&cStats&7«               '
+- ''
+ladderkills:
+  firstline: '               &7»&cStats&7«               '
+  ladder:
+  - '&c%player: &7Kills: &c%kills'
+  lastline: '               &7»&cStats&7«                '
+ladderdeaths:
+  firstline: '               &7»&cStats&7«               '
+  ladder:
+  - '&c%player: &7Tode: &c%deaths'
+  lastline: '               &7»&cStats&7«               '
+ranks:
+- Gladiador
+- Emperador
+- Heroe
+kills:
+- 5
+- 10
+- 15
+ladderplayers: 3
+useranks: false
+chatformatting: '&7(%kills/%deaths) &7[&a%rank&7] &e%prefix &8%player: &7%message'
+rankup: '&b%player &ayou have been promoted to the rank &b%rank'
+mysql:
+  host: localhost
+  database: pex
+  user: pex
+  password: Ugomebunu971
